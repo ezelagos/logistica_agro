@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: logistica_gold
+    columns:
+      - name: producto
+        tests:
+          - not_null

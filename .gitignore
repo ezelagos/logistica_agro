@@ -1,31 +1,43 @@
+# ======================
 # Python
+# ======================
 __pycache__/
 *.pyc
 .venv/
 .env
 
+# ======================
 # Spark
+# ======================
 spark-warehouse/
 tmp/
 *.crc
 
-# Data
+# ======================
+# Data (no versionar outputs)
+# ======================
 data/
 
+# ======================
+# Logs
+# ======================
+logs/
 
+# ======================
 # OS
+# ======================
 .DS_Store
 
-
-# Airflow
+# ======================
+# Airflow runtime (NO versionar)
+# ======================
 airflow/logs/
 airflow/airflow.db
-
-# Airflow runtime
+airflow/airflow.cfg
 airflow/*.pid
-airflow/webserver_config.py
-airflow/logs/
+airflow/webserver.pid
+airflow/scheduler/
 airflow/__pycache__/
-
-# Logs
-logs/
+airflow/dags/__pycache__/
+airflow/.cache/
+airflow/webserver_config.py

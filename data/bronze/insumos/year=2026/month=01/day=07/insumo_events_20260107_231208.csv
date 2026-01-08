@@ -1,0 +1,401 @@
+event_id,event_timestamp,unidad_negocio,tipo_evento,tipo_movimiento,insumo,categoria,cantidad,unidad_medida,origen,destino,sucursal,created_at
+286eb795-00dc-4b71-9dfc-23747c7aca15,2026-01-03T20:12:47.328895,insumos,insumo_movement,VENTA,Soja RR,Semilla,1232,bolsas,Pergamino,Productor Pereyra,Pergamino,2026-01-07T23:12:08.573043
+17a6859d-12da-47e4-98f8-d0d1a54534f2,2026-01-01T22:01:50.980989,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,453,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.573087
+b4079be0-76a0-4b71-b183-f4571897e9c7,2026-01-04T00:12:27.253088,insumos,insumo_movement,VENTA,Urea,Fertilizante,810,kg,9 de Julio,Productor Garcia,9 de Julio,2026-01-07T23:12:08.573187
+79d43d7e-2840-4f1e-9b6c-823a497d141e,2026-01-02T01:03:22.883263,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,3094,lt,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.573273
+b04c46bd-5bca-4da7-b1e9-50bf90220203,2026-01-03T17:40:41.784724,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,3132,lt,Pergamino,Productor Torres,Pergamino,2026-01-07T23:12:08.573330
+9f0a0db9-1fe3-4b04-9388-b9920eb78e04,2026-01-07T10:00:39.733722,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1074,bolsas,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.573366
+dcf536a1-0e8d-4030-abfe-8bc6ec760a5c,2026-01-06T16:32:25.785701,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,5150,lt,Trenque Lauquen,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.573399
+1d2d925c-213d-46ae-ae2d-4f2849141dc6,2026-01-02T09:36:15.579821,insumos,insumo_movement,VENTA,MAP,Fertilizante,1395,kg,Pergamino,Productor Blanco,Pergamino,2026-01-07T23:12:08.573443
+cda14e96-3461-462b-9a87-ee88ba503ad6,2026-01-02T22:12:13.302389,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,6586,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.573474
+2c54773b-8b66-48f2-9482-5769bbd954f3,2026-01-06T11:41:33.177659,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,2455,lt,9 de Julio,Productor Flores,9 de Julio,2026-01-07T23:12:08.573508
+93df3d84-a203-4f4c-b2e6-08e2136c358a,2026-01-02T16:26:05.162961,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,4546,lt,Trenque Lauquen,Productor Gonzalez,Trenque Lauquen,2026-01-07T23:12:08.573540
+abde2331-7733-4a02-81b3-a4b4fdf74c07,2026-01-02T11:10:50.329917,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1703,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.573563
+ea62ab39-2509-43f3-9d69-aee910512ebc,2026-01-02T15:26:07.050841,insumos,insumo_movement,COMPRA,MAP,Fertilizante,1763,kg,Proveedor Nacional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.573585
+f9b9062b-2862-475f-969e-28439b6fe5d8,2026-01-05T12:53:13.799120,insumos,insumo_movement,VENTA,Urea,Fertilizante,2796,kg,9 de Julio,Productor Fernandez,9 de Julio,2026-01-07T23:12:08.573621
+35d3c471-1c28-41a4-89b3-43371ef265ce,2026-01-07T10:05:53.969911,insumos,insumo_movement,VENTA,MAP,Fertilizante,3108,kg,Bahía Blanca,Productor Alvarez,Bahía Blanca,2026-01-07T23:12:08.573659
+ab5720a3-d49b-4582-acea-e5d6ccb65042,2026-01-03T10:11:40.724682,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,997,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.573694
+60617b8a-f37f-4596-870a-9ca6082b446d,2026-01-02T08:57:54.038216,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,606,lt,Bahía Blanca,Productor Flores,Bahía Blanca,2026-01-07T23:12:08.573734
+81ee576a-3a95-4148-93c4-1303650dd63d,2026-01-03T20:34:09.910682,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,3513,kg,Bahía Blanca,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.573760
+c7cfaa82-06db-41ed-91c5-5fb58ba43c99,2026-01-02T06:03:34.767158,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,2295,bolsas,Pergamino,Productor Navarro,Pergamino,2026-01-07T23:12:08.573792
+a72e68c6-14a7-440c-9446-c17a400e11b5,2026-01-03T12:11:56.491927,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,449,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.573814
+143a44bc-803d-4378-8e1a-862aba4e48b1,2026-01-03T23:33:10.637291,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2990,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.573834
+1db9d65c-65e8-435a-9055-f81edc8433ae,2026-01-02T12:52:09.634728,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,4838,lt,Trenque Lauquen,Productor Soto,Trenque Lauquen,2026-01-07T23:12:08.573864
+33c29840-6d69-48c9-9c64-d700b1749f08,2026-01-02T20:29:12.573919,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,251,kg,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.573885
+e428715f-bb4e-4a8f-a75a-e4e68131077d,2026-01-05T02:24:08.656834,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,4502,lt,Pergamino,Productor Fernandez,Pergamino,2026-01-07T23:12:08.573913
+018adc00-74d2-4e9b-bf67-331d3eb71d98,2026-01-06T01:58:21.930000,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,6201,bolsas,9 de Julio,Pergamino,Pergamino,2026-01-07T23:12:08.573935
+6a4dbca1-5356-44de-9a71-a9024f1f372d,2026-01-04T09:48:04.035371,insumos,insumo_movement,COMPRA,Urea,Fertilizante,12271,kg,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.573957
+c21d8da2-6a6f-4a51-a88e-846c74663347,2026-01-04T08:19:22.251067,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3803,bolsas,Trenque Lauquen,Productor Flores,Trenque Lauquen,2026-01-07T23:12:08.573986
+521e14f7-fd8a-46ad-8be2-c092b8dfff7d,2026-01-04T07:06:35.127461,insumos,insumo_movement,VENTA,MAP,Fertilizante,4923,kg,9 de Julio,Productor Gomez,9 de Julio,2026-01-07T23:12:08.574021
+4b8f4192-2133-4e24-b7db-08dc2646d53c,2026-01-05T09:01:34.476505,insumos,insumo_movement,VENTA,Urea,Fertilizante,4001,kg,Bahía Blanca,Productor Fernandez,Bahía Blanca,2026-01-07T23:12:08.574052
+eba8c615-96b2-4d23-9b4b-f2d1c3c1dcde,2026-01-03T13:33:04.378883,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,6096,bolsas,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.574074
+15037a35-e00d-40ce-8070-6853b0567ebc,2026-01-04T21:10:05.145276,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,2176,bolsas,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.574095
+7785399f-4bab-4be0-b858-e27edad894f8,2026-01-07T08:42:05.492717,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,5012,kg,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.574115
+4edbe1a1-15e1-4ba2-b3dc-e50d5ce00876,2026-01-01T01:33:02.698062,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,6015,kg,9 de Julio,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.574136
+4e452aff-4d13-4aed-bd17-e333c2662542,2026-01-02T01:11:38.854084,insumos,insumo_movement,VENTA,MAP,Fertilizante,4527,kg,Bahía Blanca,Productor Ortiz,Bahía Blanca,2026-01-07T23:12:08.574165
+8a9eda96-8d10-4667-bf6a-572bf64dc6ba,2026-01-04T14:42:38.134410,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2651,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.574187
+9ff97534-4592-4e6d-aff0-6fafee05bcbd,2026-01-07T16:46:26.153522,insumos,insumo_movement,COMPRA,Soja RR,Semilla,18066,bolsas,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.574223
+58d9bcc8-509f-484a-b7fb-5e9e5f65260d,2026-01-01T09:29:02.445829,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,1911,bolsas,Trenque Lauquen,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.574250
+36816017-b797-4743-b56d-37f9a9a369f2,2026-01-03T02:40:56.555650,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,448,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.574272
+b4c9f8b2-2fcd-462e-b2aa-6e5ce8dd33f2,2026-01-07T18:34:08.913362,insumos,insumo_movement,COMPRA,Soja RR,Semilla,14167,bolsas,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.574301
+e12cca25-c501-4191-9e37-016c4520c4e7,2026-01-06T00:11:08.841272,insumos,insumo_movement,VENTA,MAP,Fertilizante,730,kg,Trenque Lauquen,Productor Suarez,Trenque Lauquen,2026-01-07T23:12:08.574388
+8b3df24a-632e-4fc7-af94-06ee2cb782ba,2026-01-07T03:08:02.953138,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,4824,lt,Santa Rosa,Productor Aguirre,Santa Rosa,2026-01-07T23:12:08.574433
+526fe022-e5d6-4d47-8ed4-33bbd7526915,2026-01-05T07:59:28.833461,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,527,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.574462
+842627ed-d22c-4fe6-9a50-8637d2a3dac2,2026-01-05T22:01:47.406862,insumos,insumo_movement,VENTA,Urea,Fertilizante,2749,kg,Trenque Lauquen,Productor Mendez,Trenque Lauquen,2026-01-07T23:12:08.574494
+1f7f575a-3aa0-48f9-9632-edce24ae724a,2026-01-07T09:00:57.980663,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,5592,lt,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.574517
+0bff1050-096d-4ade-b9bd-d28892ddc108,2026-01-04T21:39:14.849864,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,7800,kg,9 de Julio,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.574539
+07a01a44-6276-46b3-919c-ed5234d43fbb,2026-01-06T01:17:19.702842,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,7855,lt,9 de Julio,Pergamino,Pergamino,2026-01-07T23:12:08.574561
+b8809dce-fd16-4ecd-ad75-a16d64abe682,2026-01-02T11:02:10.420454,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,3092,lt,9 de Julio,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.574582
+fe2ed6cb-8aca-48b2-b66f-974aa3d3c1eb,2026-01-04T09:07:03.640835,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,24993,lt,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.574602
+e0daf396-d413-43fb-9855-73d5f7164825,2026-01-06T13:47:33.786663,insumos,insumo_movement,COMPRA,MAP,Fertilizante,13670,kg,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.574623
+962e1cfd-613a-419d-9e84-98ec0ee59b2e,2026-01-06T13:52:59.751467,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,3488,lt,Fabricante Directo,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.574643
+d18e3a64-7255-4c3e-a049-4ce5a570b162,2026-01-05T17:40:30.142825,insumos,insumo_movement,VENTA,Soja RR,Semilla,1885,bolsas,Bahía Blanca,Productor Alvarez,Bahía Blanca,2026-01-07T23:12:08.574673
+02f25a3a-d5f9-4fcd-9306-a3600b57079b,2026-01-03T12:22:59.964650,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2745,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.574695
+454f6b23-fd25-4193-979d-40d1f0ce3b77,2026-01-05T12:48:36.224462,insumos,insumo_movement,VENTA,MAP,Fertilizante,2589,kg,Santa Rosa,Productor Fernandez,Santa Rosa,2026-01-07T23:12:08.574723
+c47ae8d1-6007-415a-9f1b-eba76d9f8be9,2026-01-04T01:11:00.672401,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,4553,lt,Pergamino,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.574745
+d2fff38b-e6b3-4ce3-9fd8-5c8934a05642,2026-01-04T14:10:17.312506,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,20534,lt,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.574766
+d54a42f3-7dd1-4ba2-80fb-474fa76449d6,2026-01-06T07:58:39.569763,insumos,insumo_movement,COMPRA,MAP,Fertilizante,21496,kg,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.574785
+0995b1f3-fbdc-4417-bc7b-ab340b402441,2026-01-02T01:44:43.788455,insumos,insumo_movement,COMPRA,Urea,Fertilizante,16943,kg,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.574805
+92da69f7-73a9-4034-8dc1-2c96dd10aad6,2026-01-02T15:16:45.698693,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,1501,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.574825
+657aead9-d7b4-4990-8bed-5e93381bbe57,2026-01-03T00:45:28.864224,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,2967,bolsas,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.574855
+0012df17-46af-460a-b71c-fd00579c8f90,2026-01-01T02:46:25.607936,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2252,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.574882
+613b1ab8-dd1a-406f-b341-cd4404dd94f5,2026-01-07T02:10:58.296720,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,282,lt,Santa Rosa,Productor Diaz,Santa Rosa,2026-01-07T23:12:08.574915
+27d0cbd4-2b84-423a-b5ea-d7d20fbf6ad1,2026-01-02T06:09:50.380110,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,3740,kg,Santa Rosa,9 de Julio,9 de Julio,2026-01-07T23:12:08.574943
+3271db9d-30e0-4c23-a619-aeaf3497534f,2026-01-06T00:21:53.817567,insumos,insumo_movement,VENTA,Urea,Fertilizante,2631,kg,Bahía Blanca,Productor Romero,Bahía Blanca,2026-01-07T23:12:08.574975
+150b5763-914c-4593-9d90-107ec2b35be5,2026-01-05T18:39:08.524767,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,2498,lt,Trenque Lauquen,Productor Vargas,Trenque Lauquen,2026-01-07T23:12:08.575006
+2a07e88d-6ebe-4343-8e15-de55ab716609,2026-01-05T21:25:22.849116,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1668,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.575027
+62b8b6af-0da0-4825-8dc0-f66b975f283d,2026-01-01T05:08:57.684239,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,9043,lt,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.575048
+c3caa60c-8ece-41b8-9127-bb55b1f385e2,2026-01-03T01:54:25.858899,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,4992,bolsas,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.575069
+6f107744-03d5-46d8-9c26-b07966ad1674,2026-01-07T16:51:49.754056,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,1939,kg,Bahía Blanca,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.575089
+a20ddfcf-070b-4d3a-9295-aa0a54f4b814,2026-01-04T00:07:00.590322,insumos,insumo_movement,VENTA,Urea,Fertilizante,2443,kg,Trenque Lauquen,Productor Avila,Trenque Lauquen,2026-01-07T23:12:08.575118
+eae3a924-6666-49f7-8e00-146702a4949e,2026-01-05T12:08:58.830240,insumos,insumo_movement,COMPRA,MAP,Fertilizante,14447,kg,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.575140
+b17325cd-aacd-4716-ac6a-3ae209ed7de2,2026-01-06T09:16:04.092619,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,1055,bolsas,Trenque Lauquen,Productor Juarez,Trenque Lauquen,2026-01-07T23:12:08.575168
+02d68f08-21f9-4e39-b172-1502c9bfa3d2,2026-01-01T05:48:02.230126,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,313,lt,Santa Rosa,Productor Cabrera,Santa Rosa,2026-01-07T23:12:08.575197
+d1a11b6c-4cf9-4031-84e5-db2090bd6f34,2026-01-07T13:22:16.810878,insumos,insumo_movement,VENTA,MAP,Fertilizante,1439,kg,Bahía Blanca,Productor Lopez,Bahía Blanca,2026-01-07T23:12:08.575226
+28a2764c-50b7-42ca-8982-89e25dc766fd,2026-01-04T02:49:03.052786,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2602,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.575247
+4564528d-e07d-4f36-8569-f1a838989ba1,2026-01-07T01:14:04.195038,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,3626,kg,Bahía Blanca,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.575267
+cef73d53-5dda-446b-966e-eb3e4cb1f28c,2026-01-07T09:49:08.176355,insumos,insumo_movement,VENTA,Urea,Fertilizante,4689,kg,Santa Rosa,Productor Flores,Santa Rosa,2026-01-07T23:12:08.575296
+6d3933f8-1372-4928-95b6-36521848aaab,2026-01-06T01:55:23.730407,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,7007,bolsas,9 de Julio,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.575318
+1d9dcf06-f3fd-41da-b976-4e462b6109c1,2026-01-07T16:00:23.662847,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,1327,bolsas,Santa Rosa,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.575339
+85819b32-d2a1-4fe4-83ea-0731c0b51663,2026-01-03T22:36:32.578953,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,19361,lt,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.575359
+6cd35bf7-d3bd-4abf-9eab-68c850e75540,2026-01-02T20:06:37.182644,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1841,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.575378
+cb053fc4-f750-45a4-91a6-cfcb76e2d05c,2026-01-02T19:28:59.365010,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1672,lt,9 de Julio,Productor Velazquez,9 de Julio,2026-01-07T23:12:08.575406
+9a8f3b0b-a582-4b3a-967d-44fda57a5a66,2026-01-01T12:03:57.422797,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,14286,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.575427
+03caf790-784b-4e65-b7d5-af24d9646889,2026-01-06T08:16:29.996606,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,590,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.575451
+8f47356b-56a5-4e39-8c5c-5408b7f9d90c,2026-01-03T21:43:01.666991,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,7507,bolsas,Santa Rosa,9 de Julio,9 de Julio,2026-01-07T23:12:08.575472
+a4c20ee4-42fd-4572-ae47-864d8dc88792,2026-01-06T18:55:07.881136,insumos,insumo_movement,VENTA,MAP,Fertilizante,794,kg,Bahía Blanca,Productor Gomez,Bahía Blanca,2026-01-07T23:12:08.575509
+f8ea4dd0-0434-4eb8-bdfc-41dff03b198f,2026-01-07T05:37:09.153985,insumos,insumo_movement,COMPRA,Urea,Fertilizante,15903,kg,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.575531
+b960b0b2-c82f-4bcc-8689-d6831779a73a,2026-01-03T21:46:46.464155,insumos,insumo_movement,VENTA,Urea,Fertilizante,1628,kg,Bahía Blanca,Productor Romero,Bahía Blanca,2026-01-07T23:12:08.575561
+25018078-6c54-4921-a289-83e21c8cd8ba,2026-01-04T16:41:25.214113,insumos,insumo_movement,VENTA,Soja RR,Semilla,4612,bolsas,Trenque Lauquen,Productor Sanchez,Trenque Lauquen,2026-01-07T23:12:08.575589
+8d588043-8715-44d2-80e7-ebcb86041b48,2026-01-07T11:10:35.062567,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,2050,lt,Trenque Lauquen,Productor Vargas,Trenque Lauquen,2026-01-07T23:12:08.575618
+910b9603-9768-4df0-aaed-2da4b4fea719,2026-01-06T12:23:22.903283,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,4849,bolsas,Pergamino,Productor Garcia,Pergamino,2026-01-07T23:12:08.575648
+09b12aba-7539-4585-b03d-9f400b84bc33,2026-01-06T10:43:36.174791,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,463,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.575669
+c922c50e-db3a-4b26-934a-86e8156ba6c3,2026-01-02T17:56:47.056804,insumos,insumo_movement,VENTA,Urea,Fertilizante,3427,kg,9 de Julio,Productor Paez,9 de Julio,2026-01-07T23:12:08.575697
+be864b99-6cf4-4e78-a924-09885142d0c9,2026-01-02T15:37:23.319431,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,2858,kg,9 de Julio,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.575719
+194f0e98-3281-4a82-8c21-95eeddcef322,2026-01-02T04:50:42.058076,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,17848,lt,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.575739
+c6421619-8fb7-48be-bf45-5f91b73009d5,2026-01-05T04:37:31.195131,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,5236,bolsas,Trenque Lauquen,Pergamino,Pergamino,2026-01-07T23:12:08.575758
+243c6171-8981-4ca1-a638-0dd3ed08166c,2026-01-02T16:45:20.202261,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1426,lt,Trenque Lauquen,Productor Alvarez,Trenque Lauquen,2026-01-07T23:12:08.575786
+9977ced1-4307-4b98-835f-a86afb009e53,2026-01-04T09:19:45.558724,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,844,bolsas,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.575807
+0e21d8ef-a434-4787-8a43-275cddf08da7,2026-01-02T05:03:51.322363,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,9668,bolsas,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.575842
+ceb5785a-4888-4317-9f44-2ef3f5a44441,2026-01-06T20:24:30.184085,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,8719,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.575868
+1ca69190-bc79-4f42-8b45-73d5528425b3,2026-01-04T11:47:56.436966,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,2085,bolsas,Bahía Blanca,9 de Julio,9 de Julio,2026-01-07T23:12:08.575891
+e0558b6d-008d-4008-b6fc-1e98c073cae1,2026-01-05T22:07:24.701126,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,1701,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.575912
+80bc0293-37b8-4491-bbba-584fa4ef5088,2026-01-05T13:51:59.889192,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,340,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.575932
+daee686c-bb2d-46d2-984d-b9b9d8a3e284,2026-01-04T12:02:19.137670,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,2793,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.575952
+9e31a996-3241-4ac5-b917-5c55d58e639b,2026-01-02T18:33:11.887555,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,1188,bolsas,Pergamino,Productor Romero,Pergamino,2026-01-07T23:12:08.575981
+123ba2d3-9567-4876-8ce7-44c771cd6608,2026-01-05T10:17:51.046522,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,4419,lt,Bahía Blanca,Productor Acosta,Bahía Blanca,2026-01-07T23:12:08.576012
+a9fa2c92-5f4f-4ce9-a982-a0af0a64cb4d,2026-01-05T01:57:22.443517,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,16180,lt,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576033
+1c8ed39a-d669-4087-bc14-1a2e6df020fe,2026-01-01T02:09:45.044204,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,4838,lt,Bahía Blanca,Productor Diaz,Bahía Blanca,2026-01-07T23:12:08.576069
+d932506e-85f0-473f-9020-d2b75b331051,2026-01-03T22:28:44.754618,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,3010,lt,Trenque Lauquen,Pergamino,Pergamino,2026-01-07T23:12:08.576091
+65f5c20c-3ca1-4135-8445-08fbe885d400,2026-01-06T01:38:40.292024,insumos,insumo_movement,VENTA,Soja RR,Semilla,3399,bolsas,Santa Rosa,Productor Duarte,Santa Rosa,2026-01-07T23:12:08.576120
+aca283c0-c70b-4551-863c-08daa082d7e8,2026-01-03T15:15:18.165486,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,19645,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.576141
+2bbe8e62-bbe5-4512-8291-2e4a2380a08d,2026-01-03T12:45:07.345487,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,1793,bolsas,Trenque Lauquen,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576161
+9cf91449-bf73-4384-9453-7731ca3c24c6,2026-01-06T12:49:12.041608,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,16957,lt,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.576181
+4503ad2e-a091-419a-98f9-5f3d05c518be,2026-01-01T20:08:53.149647,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,4803,kg,Bahía Blanca,Pergamino,Pergamino,2026-01-07T23:12:08.576205
+db6eaf45-9e8c-44c7-b99b-d4bd87db1a3f,2026-01-06T16:05:35.672726,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,8359,lt,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.576227
+c0d29254-5b2d-45c6-8ebc-a5f99d236175,2026-01-06T18:40:03.343901,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,1979,kg,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.576247
+1af6985d-036e-4818-883d-ad50d329bda6,2026-01-03T22:07:32.905244,insumos,insumo_movement,COMPRA,Soja RR,Semilla,23748,bolsas,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576266
+a45f9026-7b57-497a-bcca-0be621b88136,2026-01-04T03:30:24.131558,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,4029,bolsas,Trenque Lauquen,Productor Lopez,Trenque Lauquen,2026-01-07T23:12:08.576295
+44d2fd88-3f86-4e3a-b8e5-858b80a85274,2026-01-02T06:31:49.707230,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,6330,lt,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.576317
+6aa64b5e-2dfa-4ec3-ac34-1be9f1ba5c62,2026-01-02T18:56:17.506021,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,6138,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.576336
+6bd45869-417e-4a3d-9f97-06e8a65601d0,2026-01-01T01:33:31.423218,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,4946,kg,Trenque Lauquen,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576356
+83e99edd-80de-40d0-bd19-be8e0d21e1c4,2026-01-03T02:13:10.580844,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,24650,lt,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.576375
+909d9413-452c-4928-b49d-64433e8334a8,2026-01-04T17:52:22.958804,insumos,insumo_movement,VENTA,Urea,Fertilizante,1344,kg,Santa Rosa,Productor Alvarez,Santa Rosa,2026-01-07T23:12:08.576403
+07c8f8c0-67b4-43d9-8fd5-18187751f2d7,2026-01-06T02:15:42.289315,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,2041,bolsas,Bahía Blanca,Productor Romero,Bahía Blanca,2026-01-07T23:12:08.576432
+f60259fa-711c-4063-a943-f61a048745aa,2026-01-06T08:28:41.024136,insumos,insumo_movement,VENTA,Urea,Fertilizante,4335,kg,Santa Rosa,Productor Escobar,Santa Rosa,2026-01-07T23:12:08.576460
+3c09e7d9-ed00-4dc9-8d85-a86a5c673278,2026-01-03T03:52:44.865602,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,2333,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.576481
+3c8a0997-c4ee-4c7a-bedb-e9f188db8ba6,2026-01-06T18:07:09.880363,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,5152,lt,Pergamino,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.576505
+e333788e-c5da-49ae-9a05-d242a42ec37f,2026-01-01T21:53:38.617461,insumos,insumo_movement,COMPRA,Urea,Fertilizante,2911,kg,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.576525
+f496f67c-2158-41e0-a302-7c31d6cafeba,2026-01-02T11:57:53.724277,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1597,bolsas,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.576544
+6c00b9d1-9dcd-4507-b3de-10a642bfd30e,2026-01-04T17:59:18.990467,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1539,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.576563
+a27cce3b-9ffa-4a07-84dd-ae2d5ccb74d7,2026-01-04T13:03:10.892576,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,24950,lt,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.576582
+f5e11eb3-d3ef-4aa4-af96-56f3eb038e92,2026-01-07T01:10:37.165900,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3793,bolsas,9 de Julio,Productor Soria,9 de Julio,2026-01-07T23:12:08.576617
+40657485-3e79-42b6-82ca-012423892f60,2026-01-02T13:06:57.539548,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,7782,lt,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576639
+eb777a43-1b85-4bae-9298-7c6ebdd7984b,2026-01-02T10:48:47.759859,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,10439,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.576659
+6326d20a-791e-46db-94ad-6c1f48aaab80,2026-01-01T03:54:32.282346,insumos,insumo_movement,VENTA,MAP,Fertilizante,4549,kg,Bahía Blanca,Productor Franco,Bahía Blanca,2026-01-07T23:12:08.576688
+4fb59840-b4aa-439b-aeea-28e413a84141,2026-01-04T21:52:36.863358,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,6689,lt,9 de Julio,Pergamino,Pergamino,2026-01-07T23:12:08.576709
+accdeefb-c5ea-4a60-87e2-e962e87aa660,2026-01-07T04:03:18.231919,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,5211,bolsas,Trenque Lauquen,Pergamino,Pergamino,2026-01-07T23:12:08.576729
+fa4d7161-6186-4cf9-ba9b-b688bd4cfacc,2026-01-01T06:42:16.481166,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2089,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.576748
+53bf192a-f7fb-4d25-a8a3-1b5aa8802778,2026-01-07T17:16:51.486036,insumos,insumo_movement,COMPRA,Urea,Fertilizante,11163,kg,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.576767
+b3c9caf0-4311-4ef5-9d22-dee9840db582,2026-01-04T12:12:33.892167,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,5916,bolsas,Trenque Lauquen,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.576787
+c2803704-8339-41a8-a9d3-8b42cbcd99c6,2026-01-04T13:46:49.912313,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,2961,lt,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.576806
+fc86e340-9431-4e74-96ae-6a8bcda356c3,2026-01-04T22:11:55.953245,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,1626,bolsas,Santa Rosa,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.576825
+5b541087-ec05-4c54-86d2-150a0957fb65,2026-01-01T01:20:00.799908,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2951,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.576844
+9c245eff-b995-4601-bb94-38aa4d661a3b,2026-01-03T12:35:01.937199,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2725,kg,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.576863
+4c4e4e91-6f17-4d77-8278-324f5bec3bfa,2026-01-01T14:01:43.176365,insumos,insumo_movement,COMPRA,Soja RR,Semilla,6697,bolsas,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.576886
+f705c370-1304-4131-87ae-a217182240a2,2026-01-01T15:23:03.283855,insumos,insumo_movement,VENTA,Urea,Fertilizante,3411,kg,Santa Rosa,Productor Lopez,Santa Rosa,2026-01-07T23:12:08.576916
+6c4e3eb5-0939-4e2f-91a5-1da59f4d7f8e,2026-01-01T18:03:31.874848,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,3357,kg,Trenque Lauquen,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.576937
+372e2b3d-afcc-46c7-bccd-53701bf71262,2026-01-05T04:20:33.527177,insumos,insumo_movement,COMPRA,MAP,Fertilizante,3163,kg,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.576957
+173aa5d2-2006-4b70-9d9e-c69af5c6ea80,2026-01-07T12:30:02.241597,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,1230,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.576975
+6411cad3-da00-42ff-b56b-258b4123d437,2026-01-07T03:38:12.846379,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,23380,bolsas,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.576994
+3333361a-03cc-45f8-8c12-a3ed7cdfa7c2,2026-01-05T04:49:16.306676,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,2643,lt,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.577013
+29e22a02-e913-4877-a695-e17b1b0e62c2,2026-01-05T06:40:04.140753,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,2924,lt,Bahía Blanca,9 de Julio,9 de Julio,2026-01-07T23:12:08.577032
+cb658073-45d7-4d44-9625-bc39890235b0,2026-01-07T02:48:02.930004,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,1712,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.577050
+356eeea7-19b4-451b-b933-75fc6184495f,2026-01-04T21:41:58.478917,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2930,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.577069
+6e0fdff7-d0cd-444d-8245-ec91a66a974d,2026-01-05T02:31:40.709441,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,2106,bolsas,Pergamino,Productor Ponce,Pergamino,2026-01-07T23:12:08.577097
+0b10e0b5-56d8-4d36-917a-5d823a7d1bec,2026-01-07T00:07:05.432432,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,9953,lt,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577121
+a5e5a3c0-cd9c-4b9e-8b9a-d49462e623a8,2026-01-04T09:40:14.456831,insumos,insumo_movement,VENTA,Urea,Fertilizante,739,kg,Pergamino,Productor Rodriguez,Pergamino,2026-01-07T23:12:08.577151
+0162086d-adce-4666-b0b1-fec63ba6c55b,2026-01-02T02:05:39.449580,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,1941,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.577171
+1053cf64-ed43-4e5a-944d-194157e59f2a,2026-01-07T20:11:42.606485,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,7727,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.577190
+49c9c052-3dc4-4831-9a71-07b47a4fc6ab,2026-01-04T22:09:19.139804,insumos,insumo_movement,VENTA,Urea,Fertilizante,3319,kg,Pergamino,Productor Gonzalez,Pergamino,2026-01-07T23:12:08.577218
+f6983267-e730-49bb-8750-65865ec2289c,2026-01-01T08:40:20.593611,insumos,insumo_movement,COMPRA,MAP,Fertilizante,3771,kg,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.577238
+fffca41d-c262-42cb-bc45-3c635abbc990,2026-01-04T07:30:22.304454,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,888,bolsas,9 de Julio,Productor Perez,9 de Julio,2026-01-07T23:12:08.577267
+47c2c9ef-3196-43f7-9bbd-f0d270c9f203,2026-01-01T02:02:19.446641,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2334,kg,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.577286
+85ff0471-a907-42be-b8e5-5c5601a65533,2026-01-07T02:43:47.799483,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,15410,lt,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.577305
+2cecff5f-32ab-47d8-acd8-8e68df55862b,2026-01-05T21:35:55.111253,insumos,insumo_movement,COMPRA,Urea,Fertilizante,20439,kg,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.577324
+0599042b-e1ec-4787-b116-600c6a859a38,2026-01-07T00:08:22.630621,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2008,bolsas,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.577344
+e97acc3f-ed09-4b09-8f68-6ce6b168212b,2026-01-04T04:55:59.840394,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1043,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.577363
+6c9cab5c-b373-4505-996f-82a07b24bd8c,2026-01-03T17:41:44.228881,insumos,insumo_movement,COMPRA,Soja RR,Semilla,6151,bolsas,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.577382
+31bb01d1-3e80-4125-ac24-27f142a11d22,2026-01-01T14:07:37.367135,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,13097,lt,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577401
+89ef425c-986b-4e08-b4e0-6acbff2fcff0,2026-01-05T14:21:40.165065,insumos,insumo_movement,VENTA,Soja RR,Semilla,385,bolsas,Pergamino,Productor Benitez,Pergamino,2026-01-07T23:12:08.577434
+bf3ec565-0e71-4ea4-afc5-193e14b6c9d1,2026-01-03T17:41:57.743310,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,1951,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.577455
+39ec6236-bef0-44c8-8156-472fa89217c2,2026-01-02T14:40:27.796164,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,3628,kg,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.577475
+76d9a759-04cf-41d8-a456-ad9ab65dd478,2026-01-05T00:22:45.064582,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,4184,lt,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.577495
+b6c65a36-249c-4b55-8a70-b59a405aa536,2026-01-06T23:22:07.951751,insumos,insumo_movement,VENTA,Soja RR,Semilla,4517,bolsas,Pergamino,Productor Maldonado,Pergamino,2026-01-07T23:12:08.577523
+ec550668-b910-42b6-9e7e-43783d6f86f4,2026-01-01T19:46:59.693284,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,23267,bolsas,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577543
+fe1c5e7f-fa14-4655-8561-0388baca8343,2026-01-04T09:54:35.631435,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,1689,lt,9 de Julio,Productor Franco,9 de Julio,2026-01-07T23:12:08.577570
+2be88e94-d3ee-4598-92e0-79e0cc9a7b56,2026-01-01T19:32:09.923301,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,2966,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.577591
+a426f793-7504-4699-b6f7-aa0316e51287,2026-01-05T10:48:10.767622,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,7390,bolsas,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.577610
+7578b63b-f324-4308-bd28-cbd30cb20770,2026-01-02T03:10:18.330112,insumos,insumo_movement,VENTA,MAP,Fertilizante,4432,kg,Santa Rosa,Productor Gonzalez,Santa Rosa,2026-01-07T23:12:08.577642
+ed5b730b-b13c-431b-ab63-63960544f3fa,2026-01-01T22:33:12.471088,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,2037,kg,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.577668
+cdc70e20-5a2a-4a6b-b9c6-c2d1ec90709f,2026-01-05T14:05:09.436532,insumos,insumo_movement,COMPRA,Urea,Fertilizante,10590,kg,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.577689
+afd4678b-0559-4866-9c04-646c3d9edea6,2026-01-03T07:39:45.303557,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,1590,lt,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.577710
+63b1010e-ca03-4c37-95c1-0cc11dc938c6,2026-01-02T07:52:03.956270,insumos,insumo_movement,COMPRA,Soja RR,Semilla,2512,bolsas,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577731
+574a956a-2c0b-41ba-9ffd-b1b54bad94a3,2026-01-06T15:06:24.540565,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,5002,kg,Trenque Lauquen,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577751
+8984ba2a-f786-4f4d-aea6-b091c62cdfdc,2026-01-02T17:20:23.799736,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,2423,kg,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.577772
+11d375a3-eb19-4825-aa68-9334c1ee89c8,2026-01-04T05:51:51.520118,insumos,insumo_movement,VENTA,MAP,Fertilizante,4816,kg,Pergamino,Productor Sanchez,Pergamino,2026-01-07T23:12:08.577810
+7abb64e1-9d60-42c8-a427-a95096b3e1c7,2026-01-02T07:45:27.151028,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1806,lt,9 de Julio,Productor Vargas,9 de Julio,2026-01-07T23:12:08.577839
+da354880-9c91-4f4a-8802-410f715a7422,2026-01-03T16:38:42.419116,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,6501,kg,Santa Rosa,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.577861
+114f21ac-baae-42d0-ada8-141328754374,2026-01-01T21:44:18.150500,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,3055,lt,Trenque Lauquen,Productor Maldonado,Trenque Lauquen,2026-01-07T23:12:08.577893
+d75e7a03-5da8-4282-89ef-15b036e3d311,2026-01-05T02:33:48.601601,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,1479,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.577915
+2254ab26-2a70-4c53-91bc-f317c4562c92,2026-01-04T13:45:23.049476,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3518,bolsas,Santa Rosa,Productor Romero,Santa Rosa,2026-01-07T23:12:08.577944
+b8ec56a6-fb65-4e7e-993a-75abfa2d8151,2026-01-06T06:21:25.317442,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,1419,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.577965
+999cb5f0-47b6-4e9c-9578-b5881c33c3bd,2026-01-06T06:12:23.279295,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,11158,lt,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.577984
+f0c26bf4-733c-4ea7-a095-1d7fe573ba63,2026-01-01T19:14:29.252002,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,3277,lt,Bahía Blanca,Productor Castro,Bahía Blanca,2026-01-07T23:12:08.578012
+629fd15d-0963-4624-941a-1f25f1caabd0,2026-01-07T13:43:51.040629,insumos,insumo_movement,VENTA,Urea,Fertilizante,363,kg,Pergamino,Productor Sanchez,Pergamino,2026-01-07T23:12:08.578041
+ea15917f-4f4f-4c26-be55-88ef37b33eb7,2026-01-07T13:58:42.562082,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,468,kg,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.578061
+ffec7b38-2dda-4313-9be4-a7facc003316,2026-01-05T02:35:48.892084,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1224,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.578080
+4ce22a9e-0295-4f64-9e80-d2c66eb97bbd,2026-01-03T03:37:05.638293,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,862,bolsas,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.578100
+d840999b-ef5e-4d39-8440-d94f9ac01b03,2026-01-06T03:25:43.703999,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1087,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.578119
+b780df3e-4fe8-4bc9-a697-b43416cbce74,2026-01-03T11:39:40.268589,insumos,insumo_movement,COMPRA,MAP,Fertilizante,12388,kg,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.578137
+79065cfa-33ae-45b3-9afe-d2b5f1fccd62,2026-01-02T02:40:05.537779,insumos,insumo_movement,VENTA,MAP,Fertilizante,2561,kg,Bahía Blanca,Productor Moyano,Bahía Blanca,2026-01-07T23:12:08.578169
+49a08149-4810-4478-8b52-44cd5a2421da,2026-01-02T01:46:53.710417,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,16614,lt,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.578190
+bb71bfeb-7883-4772-9bc9-7ef7b1324849,2026-01-05T14:01:54.812883,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,4909,lt,Fabricante Directo,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.578211
+e83c7788-319a-4e6a-a01b-948985f6c568,2026-01-06T00:49:03.407521,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,21547,lt,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.578230
+81f10266-737f-4a53-a81c-c82aa10a9004,2026-01-02T10:53:58.429889,insumos,insumo_movement,COMPRA,Urea,Fertilizante,6401,kg,Fabricante Directo,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.578253
+2401ae33-0578-4205-a872-fac2f1508efb,2026-01-02T04:55:07.023674,insumos,insumo_movement,COMPRA,Soja RR,Semilla,20817,bolsas,Importador Regional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.578273
+b437f928-3e9c-4555-99b8-a2e1049e9ebb,2026-01-06T15:21:50.691139,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,508,lt,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.578292
+58fbcd1e-e36f-420f-acb6-a363ff025e56,2026-01-02T11:22:50.590894,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,4004,lt,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.578312
+e3522a87-dc1d-4aae-9638-62e06486617c,2026-01-06T19:24:30.341393,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,2108,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578346
+c8f26a00-df01-4358-9b67-568ffeeeb046,2026-01-04T03:53:16.979455,insumos,insumo_movement,VENTA,Urea,Fertilizante,1979,kg,Pergamino,Productor Moyano,Pergamino,2026-01-07T23:12:08.578386
+9d378b72-5b3e-4ec8-bc6d-bbff2bf3fddf,2026-01-06T17:21:52.403789,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,5401,kg,Bahía Blanca,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.578410
+7f5e43f5-d378-470b-b04c-2170e8cbbadd,2026-01-06T01:48:23.143279,insumos,insumo_movement,VENTA,Urea,Fertilizante,4927,kg,9 de Julio,Productor Sanchez,9 de Julio,2026-01-07T23:12:08.578446
+0debfa95-6982-472d-8798-8cb6a9107bf5,2026-01-07T09:13:31.127170,insumos,insumo_movement,VENTA,Soja RR,Semilla,3799,bolsas,Bahía Blanca,Productor Valdez,Bahía Blanca,2026-01-07T23:12:08.578476
+df4cf244-b516-433e-ae0b-620ed9605a1c,2026-01-02T11:27:10.192720,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,552,lt,Bahía Blanca,Productor Navarro,Bahía Blanca,2026-01-07T23:12:08.578506
+f055f72f-ecc4-4564-8e94-fb5766eaad83,2026-01-05T09:18:21.650295,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,10281,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.578527
+c2fc6aa8-4731-4a1a-8e99-1fff18446202,2026-01-07T13:18:17.529129,insumos,insumo_movement,VENTA,Urea,Fertilizante,2693,kg,Trenque Lauquen,Productor Mendoza,Trenque Lauquen,2026-01-07T23:12:08.578555
+0ba7b9c1-ba55-4720-993d-9dc12e16d81c,2026-01-05T14:09:43.247005,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,3276,kg,9 de Julio,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.578576
+54e9fac3-760c-441e-a85c-a55c8405200a,2026-01-05T14:24:01.471087,insumos,insumo_movement,COMPRA,Soja RR,Semilla,1944,bolsas,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.578595
+5b2b79c1-3a92-4140-ba3e-55a61430916f,2026-01-07T13:21:37.550931,insumos,insumo_movement,VENTA,Soja RR,Semilla,4349,bolsas,Bahía Blanca,Productor Lopez,Bahía Blanca,2026-01-07T23:12:08.578622
+205d2888-c9d8-41a1-804b-309877fb5693,2026-01-02T14:24:30.701453,insumos,insumo_movement,COMPRA,MAP,Fertilizante,13205,kg,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.578643
+92ea3134-2fae-4f01-9a35-4cdc668eeac6,2026-01-02T16:40:21.512075,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,15315,bolsas,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.578662
+5a84ea9d-7f9a-48df-8e58-770ca3bd602d,2026-01-06T23:17:30.656006,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,669,bolsas,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.578680
+8ef25bd1-67d1-4da7-8a73-82c1a183ff3a,2026-01-07T03:47:29.378216,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,2724,bolsas,Pergamino,Productor Fernandez,Pergamino,2026-01-07T23:12:08.578707
+19b3087a-e5ba-43b0-9250-a6c2abe59b8c,2026-01-02T21:29:50.250191,insumos,insumo_movement,COMPRA,MAP,Fertilizante,22963,kg,Proveedor Nacional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.578733
+b17035c5-7b3b-4ebb-b6f5-aab7c89e5640,2026-01-03T16:53:18.858779,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,1896,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.578753
+6c6b16b7-5ed1-4cbc-a496-18aad5923e15,2026-01-07T14:13:51.735030,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,1908,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578771
+9b953975-c81d-4785-98ef-9f2177d188b6,2026-01-06T05:30:42.694820,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,4491,bolsas,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.578794
+53b59b22-46d2-4363-bf27-c79081d2e000,2026-01-02T21:12:45.127469,insumos,insumo_movement,COMPRA,Urea,Fertilizante,8068,kg,Importador Regional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.578814
+cc054a12-080e-4a02-89d8-8a773d63b667,2026-01-05T12:41:21.309482,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,413,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578833
+f5ff115d-faae-4206-89d6-bc50d8174bf1,2026-01-03T02:52:34.981414,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1327,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.578850
+eef3d14e-2415-4f18-b53b-8ec0bccc7bf9,2026-01-04T02:25:42.843891,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2572,lt,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.578868
+99fcf43b-3367-4e27-91d9-004a8ba19dc5,2026-01-03T21:43:04.543164,insumos,insumo_movement,VENTA,Urea,Fertilizante,2182,kg,Santa Rosa,Productor Castillo,Santa Rosa,2026-01-07T23:12:08.578895
+239e72a8-9ea4-4197-bd5a-847f096f8442,2026-01-06T21:10:02.938824,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,701,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578914
+f5c583ba-b3e2-4101-9a70-93bb69fca995,2026-01-02T14:15:49.961424,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2728,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578932
+e1ed570f-9d62-4d4a-ba25-103d7a3fc832,2026-01-05T13:41:01.198219,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2054,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.578951
+2ef81e69-8722-4f59-a4a1-ffd0b707fedb,2026-01-06T06:25:56.180437,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2067,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.578969
+f09ea7ed-241f-417c-ba27-8407d8006b31,2026-01-02T21:53:42.977995,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,23441,bolsas,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.578987
+34ebd359-8b04-4a37-b19f-1dfedaf442c7,2026-01-04T19:42:56.176426,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,17886,lt,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.579006
+86cf2588-d5be-44bc-be4f-76cf551c76b6,2026-01-04T06:52:10.711367,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,2465,bolsas,Bahía Blanca,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579024
+fab2dcc3-a9ad-4cdb-91dd-a2af8aa70e74,2026-01-02T02:00:12.115366,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,659,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.579042
+32864792-7669-42e6-bf3a-2c5c7262e7b8,2026-01-07T07:45:16.732143,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,3092,lt,Bahía Blanca,Productor Lopez,Bahía Blanca,2026-01-07T23:12:08.579069
+0937d418-0f8d-43bc-b2f1-13a65eabc07b,2026-01-02T10:25:37.775710,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,3147,bolsas,Trenque Lauquen,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.579090
+7f8e55fc-731b-419f-9933-7d220924d2e3,2026-01-01T20:23:08.981178,insumos,insumo_movement,COMPRA,Soja RR,Semilla,19572,bolsas,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579109
+a38edc82-657e-482b-b581-e1c0f0762ece,2026-01-05T08:24:28.300204,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1188,lt,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.579128
+c900529a-fc76-44c7-b252-77bfdbabd10e,2026-01-03T04:55:00.576455,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,3623,lt,Pergamino,Productor Lopez,Pergamino,2026-01-07T23:12:08.579155
+5a892af0-8ada-4421-ae1b-7cb54874146f,2026-01-05T03:24:52.649188,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,6591,lt,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.579176
+eba29824-1c2c-40c0-a1ce-63e149cb11d6,2026-01-05T13:16:51.585617,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,6431,kg,Santa Rosa,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.579196
+dc98e980-5bb1-4f39-9156-fc411181d5f9,2026-01-06T08:18:22.222743,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,406,kg,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.579218
+d150a7ce-b2d5-4292-bd9f-a444d5c55497,2026-01-01T08:35:23.528946,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,17950,lt,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579271
+3aff50b7-b011-4efd-abe9-3940025fecec,2026-01-05T19:39:53.927366,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,2328,lt,9 de Julio,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.579303
+fbb967f4-e995-4df5-b5f1-a424584f1d8a,2026-01-04T10:48:11.136894,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,1895,lt,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.579327
+48d61eba-b9b3-40c2-a56a-2f6ae0644bdc,2026-01-04T06:01:25.376225,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,4050,bolsas,9 de Julio,Pergamino,Pergamino,2026-01-07T23:12:08.579350
+3fe4a1db-b8e7-460b-952c-38cf1c108703,2026-01-06T18:36:15.104838,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,13443,bolsas,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579371
+8ba93b1b-e14e-4474-8089-d70f96c08fdb,2026-01-03T17:52:37.884505,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,888,bolsas,9 de Julio,Productor Garcia,9 de Julio,2026-01-07T23:12:08.579409
+004e18ce-b85d-4f7d-ad23-bd10b1cf59c0,2026-01-07T12:17:36.557512,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,1472,kg,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.579431
+e3892541-5fab-4604-806c-bdf8e4457b28,2026-01-03T15:55:28.714939,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,1205,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.579456
+5bf2472d-0a70-429f-bb4a-c548d149e049,2026-01-03T10:55:48.737351,insumos,insumo_movement,COMPRA,Urea,Fertilizante,18677,kg,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.579477
+73cbea1f-3298-4018-a416-16a803bcd403,2026-01-05T19:21:49.829795,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,5320,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.579496
+cd8955fd-7def-41d1-8c62-6d424aefeb17,2026-01-04T04:39:46.926871,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,5032,lt,Proveedor Nacional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.579516
+7370d4b6-1782-4079-8961-e1c2ce8b2607,2026-01-04T18:31:38.562156,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2036,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.579535
+b19064d6-b233-4b67-be38-ddc5fe3c3222,2026-01-04T18:31:33.558182,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,2044,bolsas,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.579553
+7065d8a3-dd58-4b4e-94d0-3314071d91e8,2026-01-03T23:56:20.360337,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,14331,bolsas,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579571
+566161fa-f597-4d95-9db5-25ad310c6a8d,2026-01-05T14:07:24.524989,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,1337,bolsas,Bahía Blanca,Productor Ayala,Bahía Blanca,2026-01-07T23:12:08.579600
+63bd760b-d542-4b56-a484-06644a273765,2026-01-01T13:58:51.348719,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,8308,lt,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.579621
+406d18f0-436f-406a-8ab5-f36582c3aec0,2026-01-04T10:52:13.497775,insumos,insumo_movement,COMPRA,MAP,Fertilizante,8759,kg,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.579641
+e1742707-27c8-4ba9-9c78-59df236bde99,2026-01-06T03:59:56.972110,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,4697,lt,Pergamino,Productor Rojas,Pergamino,2026-01-07T23:12:08.579698
+5c4f4bed-df1b-4c1d-b91d-bd4fb439d9ae,2026-01-01T17:17:46.298820,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,993,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.579723
+e10f1d2f-e553-479b-89dc-674cba459687,2026-01-06T00:55:21.347928,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,3042,kg,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.579746
+926a8694-b190-4637-adce-d2613b4cf841,2026-01-05T09:21:32.660108,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,12582,lt,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.579767
+b53164c2-35a9-4850-94c2-981efc381d72,2026-01-06T23:45:49.622872,insumos,insumo_movement,VENTA,Urea,Fertilizante,3010,kg,Trenque Lauquen,Productor Arias,Trenque Lauquen,2026-01-07T23:12:08.579797
+aec71288-884d-4a07-bb24-bcd29cd07e4e,2026-01-06T02:26:42.255728,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,2686,bolsas,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.579820
+57ff27c9-aa27-4d91-a454-65f00d78bc71,2026-01-02T03:35:56.268576,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,12706,lt,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.579841
+385fda20-ba64-41a4-8c40-b02ab7bd8265,2026-01-05T20:18:09.368616,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,5246,bolsas,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.579895
+fb3d500c-f9a6-4ee0-857f-714181a62a70,2026-01-02T22:20:50.637980,insumos,insumo_movement,VENTA,MAP,Fertilizante,4153,kg,Trenque Lauquen,Productor Gomez,Trenque Lauquen,2026-01-07T23:12:08.579937
+d1bc00c1-46dc-44f0-9468-2a607a9c2d75,2026-01-04T11:45:44.117230,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,9406,lt,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.579961
+b462f841-2c3c-4ae8-89ec-51490a5cf24b,2026-01-07T14:05:38.682878,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,5062,lt,9 de Julio,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.579983
+bbf94c8b-4969-418c-a873-849fb5541455,2026-01-07T04:16:20.111996,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,3855,bolsas,Santa Rosa,9 de Julio,9 de Julio,2026-01-07T23:12:08.580005
+7aa678e8-6104-42fc-9191-78c1f8e24522,2026-01-02T19:03:26.114169,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,2944,bolsas,Trenque Lauquen,9 de Julio,9 de Julio,2026-01-07T23:12:08.580025
+a697227b-cdaa-4f8c-bf51-13ab6d72f2da,2026-01-01T02:24:19.946726,insumos,insumo_movement,COMPRA,Soja RR,Semilla,21859,bolsas,Importador Regional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.580045
+c088f090-a109-48e5-8712-f3136957d0a3,2026-01-06T18:53:14.085186,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,2481,kg,Trenque Lauquen,9 de Julio,9 de Julio,2026-01-07T23:12:08.580065
+b2a481d5-72d9-4e11-ad2e-bc97cecd9408,2026-01-01T08:27:24.020579,insumos,insumo_movement,VENTA,Urea,Fertilizante,858,kg,9 de Julio,Productor Correa,9 de Julio,2026-01-07T23:12:08.580095
+1fcbd04b-1edd-4d07-bca3-0f7726fd664f,2026-01-05T17:39:16.405061,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,3857,bolsas,Importador Regional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.580116
+d57b8ba8-b722-4aba-a8ff-8904332e23b1,2026-01-02T04:54:38.246400,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,780,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.580135
+fd32cda4-c448-4046-b50c-c020c963e0ff,2026-01-06T23:29:27.134101,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,6637,bolsas,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.580154
+70070190-0534-4e7e-a9dc-ae563fc70ce0,2026-01-02T20:31:44.529700,insumos,insumo_movement,COMPRA,Urea,Fertilizante,20932,kg,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.580177
+a638b787-e9d7-4d3b-97cb-e4e76602f8a1,2026-01-04T13:56:50.214208,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,717,lt,Bahía Blanca,Pergamino,Pergamino,2026-01-07T23:12:08.580199
+984e36d9-4ae5-44a2-b9f1-8ec9e8811125,2026-01-05T09:50:31.456017,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2151,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.580219
+547925ea-10e0-477b-89ae-996f7a70580b,2026-01-01T20:10:10.739099,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2330,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.580238
+86b66845-7161-4624-b670-997bde3d748e,2026-01-03T13:10:53.591538,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,4725,lt,Santa Rosa,Productor Juarez,Santa Rosa,2026-01-07T23:12:08.580266
+fc1537fb-3751-4641-85ce-a606f092f453,2026-01-06T20:32:21.430658,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,17543,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.580287
+b3764cd7-9565-47e8-a260-bb8751e2ff93,2026-01-05T10:10:18.118836,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,824,kg,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.580307
+80429106-58be-4005-8439-bfc6cba26db1,2026-01-06T08:19:08.994018,insumos,insumo_movement,VENTA,Urea,Fertilizante,310,kg,Pergamino,Productor Olivera,Pergamino,2026-01-07T23:12:08.580336
+67d6a70a-f685-479c-9ffa-b47fb85022c3,2026-01-06T23:41:22.677538,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,1891,kg,9 de Julio,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.580357
+55b08f9f-3f95-4e18-96be-57110ddb6eb4,2026-01-01T09:19:44.374838,insumos,insumo_movement,VENTA,Urea,Fertilizante,2318,kg,Santa Rosa,Productor Fernandez,Santa Rosa,2026-01-07T23:12:08.580386
+311e5124-25f8-46a0-8f65-d7a586c7fb5f,2026-01-03T16:37:37.649892,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,4744,kg,9 de Julio,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.580407
+ff6411ca-25da-4400-9034-82512885eb9b,2026-01-02T10:59:19.686325,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,3102,lt,Santa Rosa,Productor Navarro,Santa Rosa,2026-01-07T23:12:08.580440
+e7383d2e-de91-4375-8e6a-b2cb37bd68ee,2026-01-03T11:51:16.811015,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,24081,lt,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.580466
+7771e518-d82c-497f-abda-fac046db495a,2026-01-05T21:49:02.139329,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2980,kg,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.580488
+b8b93812-3e7a-4c94-a92b-634b079fe062,2026-01-07T09:20:32.552551,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,4911,bolsas,Bahía Blanca,Productor Rodriguez,Bahía Blanca,2026-01-07T23:12:08.580517
+8e954b76-b86f-4816-90db-8780d6fd0139,2026-01-04T12:43:40.048474,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,4233,lt,Bahía Blanca,Productor Aguirre,Bahía Blanca,2026-01-07T23:12:08.580546
+c4bc3212-5f3d-4148-88a4-768b44a81c0e,2026-01-07T18:47:22.497701,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,3379,bolsas,Trenque Lauquen,9 de Julio,9 de Julio,2026-01-07T23:12:08.580567
+c6a79254-6ad3-4770-b84a-06a065b927a7,2026-01-04T01:38:32.155341,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2956,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.580587
+264c02f1-3261-43c3-afcf-2b1b662b56e6,2026-01-03T14:10:22.571821,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,1528,bolsas,Santa Rosa,Productor Paz,Santa Rosa,2026-01-07T23:12:08.580614
+8ba4b6ab-832a-402a-949c-242b80b58657,2026-01-03T21:22:19.667704,insumos,insumo_movement,VENTA,MAP,Fertilizante,1124,kg,Pergamino,Productor Rojas,Pergamino,2026-01-07T23:12:08.580641
+8ccf59cd-93ed-40c5-9d25-58af79fa9bda,2026-01-02T23:28:42.122295,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,2607,kg,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.580661
+8e525050-1d33-4aee-b472-3285a0061c66,2026-01-02T22:27:04.656244,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,5341,lt,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.580680
+e8615204-7718-48a2-ac88-83948ca75770,2026-01-03T08:02:50.701704,insumos,insumo_movement,VENTA,MAP,Fertilizante,1849,kg,Pergamino,Productor Gonzalez,Pergamino,2026-01-07T23:12:08.580707
+187b7d71-239b-43ce-a47d-13904209fc42,2026-01-07T08:27:30.051859,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,12080,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.580741
+e995b14f-e2d4-45e9-8b1e-98e8ccdc00be,2026-01-03T18:07:30.200746,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,2735,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.580768
+4e79a488-c8d5-454a-a9d1-287560a8029a,2026-01-06T13:23:52.576285,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,2591,lt,9 de Julio,Productor Rojas,9 de Julio,2026-01-07T23:12:08.580800
+dc9d4bb2-d2e8-4d42-bc4a-0b49fde26517,2026-01-01T11:17:37.053062,insumos,insumo_movement,VENTA,Soja RR,Semilla,2030,bolsas,9 de Julio,Productor Acuña,9 de Julio,2026-01-07T23:12:08.580838
+69f310d5-ae01-45b9-876d-f7fff02778a5,2026-01-01T23:39:34.012733,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,7702,lt,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.580860
+82564d52-93dd-48f4-a68c-457ba5fcb26b,2026-01-05T09:54:17.193653,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,7064,bolsas,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.580881
+72bca93a-16a0-43af-b16e-58888daecd87,2026-01-01T07:20:49.531654,insumos,insumo_movement,COMPRA,MAP,Fertilizante,4688,kg,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.580900
+c022d787-a29d-4767-b301-f2f0196e6d6e,2026-01-02T15:55:20.515607,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,641,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.580920
+b7e5b5a0-ff70-4c7d-a647-b5b8f3379e1a,2026-01-01T04:42:03.646185,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,2062,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.580939
+cd5d717d-b5a4-4799-9a75-8ae5ec447770,2026-01-02T09:13:44.918632,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,19502,lt,Fabricante Directo,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.580957
+31a60809-6fb8-4ab8-adf8-5b59b7e1bc2a,2026-01-03T11:37:09.861220,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3140,bolsas,Bahía Blanca,Productor Gutierrez,Bahía Blanca,2026-01-07T23:12:08.580985
+1ff271e1-e360-4810-b08e-c404920d9364,2026-01-02T08:02:32.126340,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,573,bolsas,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.581005
+06e9248d-4895-49da-bd26-9e663cb610e9,2026-01-03T14:53:00.746647,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,14125,bolsas,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.581030
+3edb7f27-6942-41e8-a0b2-1491af76cc2f,2026-01-03T04:54:21.096537,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,4648,lt,9 de Julio,Pergamino,Pergamino,2026-01-07T23:12:08.581053
+0a543ac1-8e4d-4be0-bd41-d1f4c248a385,2026-01-04T08:25:05.104275,insumos,insumo_movement,COMPRA,MAP,Fertilizante,3525,kg,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.581073
+bbf86c79-926a-4572-bad8-c28a1779c1b9,2026-01-05T00:48:08.004736,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,4433,kg,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.581094
+f13bc2b4-d3f1-4d1e-822a-d18e4bc1973b,2026-01-06T18:26:17.832063,insumos,insumo_movement,VENTA,Soja RR,Semilla,4009,bolsas,Trenque Lauquen,Productor Gutierrez,Trenque Lauquen,2026-01-07T23:12:08.581123
+09e99cff-03d0-4442-b334-c9aa7fc740ff,2026-01-07T19:19:48.907240,insumos,insumo_movement,COMPRA,MAP,Fertilizante,22850,kg,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.581144
+4ceeb444-204c-4cfc-937b-fdccdf0e79b9,2026-01-06T15:56:45.896596,insumos,insumo_movement,COMPRA,Urea,Fertilizante,2531,kg,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.581163
+ec95ecd4-ed6a-4ae4-aa0e-1907c72875f9,2026-01-02T13:28:19.425234,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,3512,lt,Importador Regional,Pergamino,Pergamino,2026-01-07T23:12:08.581183
+72a9fbb5-136f-4d19-9acb-0cc9c556b874,2026-01-01T05:24:37.076684,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,19294,bolsas,Importador Regional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.581201
+88ef9ede-50e7-4784-b287-3713ab4a7c4c,2026-01-01T03:56:15.949560,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2371,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.581220
+400bc305-12a1-4230-8d6a-ff414d8c8414,2026-01-04T18:00:04.931948,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,20845,bolsas,Importador Regional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.581238
+e14e1152-3fe8-441f-8b5c-bfba7528431e,2026-01-01T09:07:58.536563,insumos,insumo_movement,COMPRA,MAP,Fertilizante,17873,kg,Proveedor Nacional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.581257
+788961c5-0bd4-4249-8c23-465d29758bab,2026-01-07T02:09:12.326660,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,2580,lt,Santa Rosa,Productor Torres,Santa Rosa,2026-01-07T23:12:08.581284
+7a84b782-743a-4307-afb7-53ea064f254e,2026-01-02T02:18:42.819718,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,6303,lt,Importador Regional,Pergamino,Pergamino,2026-01-07T23:12:08.581312
+789c1467-1320-40dd-b6fd-803a9663764b,2026-01-07T16:28:45.249859,insumos,insumo_movement,COMPRA,"2,4-D",Agroquímico,11188,lt,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.581333
+d7ee0db3-bd12-47bd-873a-cea435dd490b,2026-01-03T08:28:30.572923,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3829,bolsas,Santa Rosa,Productor Juarez,Santa Rosa,2026-01-07T23:12:08.581360
+cb88227c-3ff2-4465-a234-2e9d4574e18c,2026-01-02T22:24:33.932230,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,1373,lt,Pergamino,Productor Ruiz,Pergamino,2026-01-07T23:12:08.581389
+2211a6d2-ffa2-4448-9aa2-3d2eceefe165,2026-01-03T22:18:40.433090,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,3487,lt,Trenque Lauquen,Productor Vazquez,Trenque Lauquen,2026-01-07T23:12:08.581416
+c8722da8-b42b-4f6d-b1be-a97be0f26899,2026-01-02T06:14:53.092997,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,382,lt,Pergamino,Productor Toledo,Pergamino,2026-01-07T23:12:08.581446
+557a034d-021b-401a-a5db-1ef74f7690e3,2026-01-06T14:26:48.766189,insumos,insumo_movement,VENTA,Urea,Fertilizante,2947,kg,Trenque Lauquen,Productor Diaz,Trenque Lauquen,2026-01-07T23:12:08.581482
+c9790455-ac73-4c85-9f63-62a0c4cf1283,2026-01-07T19:34:26.299103,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,710,kg,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.581504
+c7eef373-a008-4190-bd47-ec38b2eac149,2026-01-06T23:18:50.918264,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,16003,bolsas,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.581525
+29936824-75e7-45a9-a0d3-e61c4ac3517e,2026-01-02T03:23:49.162173,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,1117,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.581544
+bf5e8a15-861c-40fc-b0ce-c4626a2b4b7d,2026-01-04T18:53:31.807455,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,6019,kg,Pergamino,9 de Julio,9 de Julio,2026-01-07T23:12:08.581569
+155be9ac-53fa-4c6c-a5cb-a2ae4bf99992,2026-01-06T21:03:00.952998,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,4189,lt,Bahía Blanca,9 de Julio,9 de Julio,2026-01-07T23:12:08.581623
+106b0aed-8094-49dd-a95b-5b7c490e0778,2026-01-05T05:40:07.405073,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,4872,bolsas,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.581660
+a79acde8-95c9-4929-a284-9cacf57e54f4,2026-01-03T02:48:30.813755,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,1329,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.581685
+c813567d-65fe-403b-b3f5-7af51af21c26,2026-01-03T04:56:18.966084,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,13661,lt,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.581706
+585b19a5-3f97-4a2c-be23-05d58bd5a4bf,2026-01-06T18:42:27.571865,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2641,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.581727
+826f4898-5253-4b09-858e-e9e744073503,2026-01-03T05:50:45.075771,insumos,insumo_movement,VENTA,MAP,Fertilizante,3089,kg,Bahía Blanca,Productor Vega,Bahía Blanca,2026-01-07T23:12:08.581757
+0d2d4c29-dcf8-4c7e-a506-2aadc09a8ef4,2026-01-06T23:08:27.320215,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,1975,lt,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.581778
+35b57bd3-24c1-4f8a-b7a5-203f9a037018,2026-01-07T06:50:31.156268,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,809,bolsas,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.581798
+3932d4e9-c0ba-44aa-9213-e5c28c896233,2026-01-01T04:14:59.331452,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2834,kg,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.581817
+a707b9cf-97f6-429a-8bc3-cf907b447dfa,2026-01-04T11:29:23.128039,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,7908,lt,Proveedor Nacional,Pergamino,Pergamino,2026-01-07T23:12:08.581837
+4e4dc0ff-46fa-4894-ba46-1f0471580493,2026-01-02T03:28:18.894515,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1224,lt,Santa Rosa,Productor Gomez,Santa Rosa,2026-01-07T23:12:08.581865
+9c5695a2-4520-482e-9bc7-4254b5939d17,2026-01-04T23:08:26.345450,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,4377,lt,Trenque Lauquen,Productor Suarez,Trenque Lauquen,2026-01-07T23:12:08.581896
+fe77715e-a25c-4a02-8610-0a4d2672acfd,2026-01-03T01:49:34.411564,insumos,insumo_movement,COMPRA,Soja RR,Semilla,24143,bolsas,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.581917
+90616e12-adf7-4780-a859-328bbbeec73a,2026-01-02T16:52:28.454368,insumos,insumo_movement,VENTA,Soja RR,Semilla,4992,bolsas,9 de Julio,Productor Gutierrez,9 de Julio,2026-01-07T23:12:08.581946
+64229f6c-8744-462c-8b84-1a91c89b1dfc,2026-01-07T09:11:01.004634,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2523,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.581967
+fb9c3ac0-3b70-4d9e-8e82-de0ae32092de,2026-01-05T01:10:55.230879,insumos,insumo_movement,TRANSFERENCIA,"2,4-D",Agroquímico,6707,lt,Pergamino,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.581987
+98864280-0db4-4d10-a72f-afae62861a21,2026-01-05T08:55:36.133907,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,6065,kg,9 de Julio,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.582007
+3b7bc170-6f68-42cf-a54d-d722225f22ea,2026-01-02T01:22:07.585450,insumos,insumo_movement,COMPRA,Soja RR,Semilla,3682,bolsas,Proveedor Nacional,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.582027
+c8655d6d-016d-4a0f-ae1e-60c7dbb7b483,2026-01-06T13:57:59.827313,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,861,bolsas,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.582046
+2de02a7e-6114-4524-a5cb-d856f3341f52,2026-01-01T10:32:58.646289,insumos,insumo_movement,COMPRA,Urea,Fertilizante,7816,kg,Fabricante Directo,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.582065
+d83025de-3141-4fe0-8bab-a82035cc949c,2026-01-05T11:57:58.590394,insumos,insumo_movement,VENTA,MAP,Fertilizante,3482,kg,Trenque Lauquen,Productor Rodriguez,Trenque Lauquen,2026-01-07T23:12:08.582092
+80089d36-7b52-4efc-9050-0a6568f144d4,2026-01-03T00:27:55.526357,insumos,insumo_movement,TRANSFERENCIA,Soja RR,Semilla,3878,bolsas,Santa Rosa,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.582113
+51074da5-eae8-4900-bb5b-a1327cf10755,2026-01-04T02:57:16.115852,insumos,insumo_movement,VENTA,Urea,Fertilizante,4281,kg,Trenque Lauquen,Productor Sanchez,Trenque Lauquen,2026-01-07T23:12:08.582146
+b62d7f7f-2d3c-446b-b3d1-215e7e2669fa,2026-01-01T23:20:28.332500,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2547,lt,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.582169
+53bf18a1-15e5-491f-8740-3a6833256ad6,2026-01-06T03:14:11.904915,insumos,insumo_movement,TRANSFERENCIA,Urea,Fertilizante,4621,kg,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.582203
+f2d406f6-9476-4a4b-a8d4-eb6afda71760,2026-01-05T08:01:53.636802,insumos,insumo_movement,COMPRA,Soja RR,Semilla,9043,bolsas,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.582233
+e7c2d768-3129-43e1-9862-c2c05bfeb134,2026-01-02T11:12:51.094725,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1658,lt,Pergamino,Productor Fernandez,Pergamino,2026-01-07T23:12:08.582266
+e825f363-3417-462b-9a8f-dfd2dc9166e5,2026-01-04T08:37:54.332904,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,213,lt,Bahía Blanca,Ganadería,Bahía Blanca,2026-01-07T23:12:08.582288
+edac167a-4c03-4566-a8d9-5e1d9458ae55,2026-01-01T15:12:36.217473,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,738,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.582308
+c85b11ef-e70c-48b7-9626-1447daf52a23,2026-01-03T11:22:05.571199,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,2028,bolsas,Santa Rosa,Productor Arias,Santa Rosa,2026-01-07T23:12:08.582426
+0bcee05d-f28e-48db-b7b7-8c94e5c64503,2026-01-01T21:06:25.834757,insumos,insumo_movement,VENTA,Glifosato,Agroquímico,3258,lt,Santa Rosa,Productor Romero,Santa Rosa,2026-01-07T23:12:08.582476
+eb499224-1a09-436a-8c81-bb13bcf2f0fb,2026-01-02T10:06:52.814001,insumos,insumo_movement,CONSUMO,Glifosato,Agroquímico,809,lt,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.582506
+47253be4-58cf-45cb-89d2-72a0d59ea1da,2026-01-01T15:03:30.136629,insumos,insumo_movement,COMPRA,Urea,Fertilizante,19818,kg,Proveedor Nacional,9 de Julio,9 de Julio,2026-01-07T23:12:08.582536
+e9b92103-f165-417c-91a9-7594977ed382,2026-01-03T13:10:05.918079,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,1628,lt,9 de Julio,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.582560
+37aa2993-fdf9-47d3-8bcc-caeaa0ecc6b5,2026-01-03T03:07:48.822409,insumos,insumo_movement,COMPRA,Urea,Fertilizante,14976,kg,Proveedor Nacional,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.582586
+10462c3e-24ce-418b-8199-c6bf88c11a28,2026-01-03T18:20:00.520094,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,24544,lt,Importador Regional,9 de Julio,9 de Julio,2026-01-07T23:12:08.582607
+a354029f-5e12-4c0c-8412-28b6e0237494,2026-01-04T16:55:11.647204,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,529,bolsas,Pergamino,Productor Aguirre,Pergamino,2026-01-07T23:12:08.582650
+bbcf42af-1ffd-44ed-bcfe-95b11b5929ec,2026-01-06T03:41:32.940790,insumos,insumo_movement,CONSUMO,Urea,Fertilizante,1359,kg,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.582680
+ece8f98a-8164-4f08-8c6c-efc305af79ec,2026-01-05T01:33:03.752982,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,713,kg,Santa Rosa,Pergamino,Pergamino,2026-01-07T23:12:08.582703
+0bfde7ac-1884-4a25-b31e-f6eae5e38f18,2026-01-02T18:48:22.548400,insumos,insumo_movement,VENTA,MAP,Fertilizante,553,kg,9 de Julio,Productor Olivera,9 de Julio,2026-01-07T23:12:08.582734
+35435e2c-977e-4fd7-a84f-bba3096f2071,2026-01-02T06:15:36.109431,insumos,insumo_movement,COMPRA,MAP,Fertilizante,6600,kg,Fabricante Directo,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.582756
+f56ec195-e3ef-4dc2-88f4-489a47503287,2026-01-06T12:26:28.699033,insumos,insumo_movement,COMPRA,Glifosato,Agroquímico,18617,lt,Fabricante Directo,Pergamino,Pergamino,2026-01-07T23:12:08.582781
+a6793565-cb33-4713-8707-ce06e0aa5404,2026-01-05T10:15:34.258641,insumos,insumo_movement,VENTA,Soja RR,Semilla,1541,bolsas,Bahía Blanca,Productor Vega,Bahía Blanca,2026-01-07T23:12:08.582810
+3f757c2e-724f-40fa-b6c9-3c6df6dab08d,2026-01-02T22:06:35.321476,insumos,insumo_movement,TRANSFERENCIA,MAP,Fertilizante,1181,kg,Pergamino,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.582831
+668523bd-ddd7-4df0-96c0-f9ad40ad85fe,2026-01-01T21:14:49.621746,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,3443,bolsas,Santa Rosa,Productor Gimenez,Santa Rosa,2026-01-07T23:12:08.582859
+14adcfb0-62c4-41c4-aa8c-8d79d6ddba6e,2026-01-05T18:45:55.232134,insumos,insumo_movement,VENTA,"2,4-D",Agroquímico,1161,lt,Trenque Lauquen,Productor Perez,Trenque Lauquen,2026-01-07T23:12:08.582892
+af078683-08eb-4837-939d-17db1cbaf450,2026-01-03T16:22:44.723786,insumos,insumo_movement,CONSUMO,MAP,Fertilizante,2535,kg,Pergamino,Ganadería,Pergamino,2026-01-07T23:12:08.582913
+75bb1730-3968-482d-b733-2967d2327f91,2026-01-01T20:53:24.560481,insumos,insumo_movement,CONSUMO,Soja RR,Semilla,2496,bolsas,9 de Julio,Ganadería,9 de Julio,2026-01-07T23:12:08.582933
+1eec09c3-2086-45b3-a2ad-9070de2f3547,2026-01-03T18:53:11.649865,insumos,insumo_movement,COMPRA,Maíz híbrido,Semilla,11146,bolsas,Proveedor Nacional,Trenque Lauquen,Trenque Lauquen,2026-01-07T23:12:08.582953
+19d89e8d-d1aa-4998-979e-f8e4e949db6f,2026-01-07T05:16:29.398601,insumos,insumo_movement,CONSUMO,"2,4-D",Agroquímico,2320,lt,Santa Rosa,Ganadería,Santa Rosa,2026-01-07T23:12:08.582972
+0ffe144d-8fb2-4de7-817c-d0a6081ef3c8,2026-01-01T23:48:42.838585,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,2715,lt,Pergamino,Santa Rosa,Santa Rosa,2026-01-07T23:12:08.582991
+2384dd02-b303-496f-8d43-a146dc6a96a5,2026-01-07T02:18:11.671709,insumos,insumo_movement,TRANSFERENCIA,Glifosato,Agroquímico,3748,lt,Pergamino,Bahía Blanca,Bahía Blanca,2026-01-07T23:12:08.583011
+8010e312-e81b-4139-b2ed-1d98f22453d4,2026-01-05T11:23:38.776087,insumos,insumo_movement,VENTA,Maíz híbrido,Semilla,358,bolsas,9 de Julio,Productor Blanco,9 de Julio,2026-01-07T23:12:08.583039
+06690782-d327-4876-80ed-e034458be8ad,2026-01-07T04:27:17.680026,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,6549,bolsas,Santa Rosa,9 de Julio,9 de Julio,2026-01-07T23:12:08.583060
+63ddf875-76f5-4a60-9bbb-3072f43f1406,2026-01-02T06:50:05.475810,insumos,insumo_movement,CONSUMO,Maíz híbrido,Semilla,2425,bolsas,Trenque Lauquen,Ganadería,Trenque Lauquen,2026-01-07T23:12:08.583080
+30e8c036-c2d5-4863-8f51-48e5b7d7c939,2026-01-04T06:49:45.526693,insumos,insumo_movement,VENTA,Urea,Fertilizante,1845,kg,Pergamino,Productor Alvarez,Pergamino,2026-01-07T23:12:08.583113
+1d364a57-9e86-4214-978c-89d16a24a9ba,2026-01-07T03:39:21.950737,insumos,insumo_movement,TRANSFERENCIA,Maíz híbrido,Semilla,2291,bolsas,Santa Rosa,9 de Julio,9 de Julio,2026-01-07T23:12:08.583134
+1f4c4788-cced-4dc5-8508-01322bcc9b59,2026-01-03T08:27:15.409808,insumos,insumo_movement,COMPRA,Soja RR,Semilla,17166,bolsas,Fabricante Directo,9 de Julio,9 de Julio,2026-01-07T23:12:08.583153

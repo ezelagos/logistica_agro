@@ -1,0 +1,301 @@
+event_id,event_timestamp,unidad_negocio,tipo_evento,tipo_movimiento,cereal,peso_kg,origen,destino,planta_acopio,created_at
+048baf2d-82c7-47a3-9282-521b8ba1babd,2026-01-01T00:49:02.530211,cereales,cereal_movement,EGRESO,Girasol,26132,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.375486
+1ab27336-ae81-40e0-a497-57fb15bd1cc5,2026-01-03T09:56:08.935687,cereales,cereal_movement,INGRESO,Trigo,26829,Campo Silva,Catriló,Catriló,2026-01-07T20:03:52.375547
+a6713e91-0924-4806-abdb-5635646e34d6,2026-01-01T22:44:13.640697,cereales,cereal_movement,EGRESO,Girasol,29545,Catriló,Puerto Bahía Blanca,Catriló,2026-01-07T20:03:52.375575
+d7a1ba5e-c475-4686-995f-44e67850f57c,2026-01-03T12:16:30.178115,cereales,cereal_movement,EGRESO,Trigo,27259,Catriló,Puerto Bahía Blanca,Catriló,2026-01-07T20:03:52.375597
+23fd91f4-7bf0-4b03-a7f8-11cb1ce2bf35,2026-01-07T09:13:37.312513,cereales,cereal_movement,EGRESO,Soja,27364,Trenque Lauquen,Puerto Bahía Blanca,Trenque Lauquen,2026-01-07T20:03:52.375618
+5ee569ee-e688-4932-a9d6-08f2ba489537,2026-01-05T02:47:35.476288,cereales,cereal_movement,INGRESO,Soja,29250,Campo Villalba,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.375650
+71aa99a3-f689-4714-acbe-5c87b450a536,2026-01-04T20:10:54.039608,cereales,cereal_movement,EGRESO,Girasol,31966,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.375672
+9eeb7c9e-00e5-4dee-b660-c6a9ba636576,2026-01-04T03:57:14.277155,cereales,cereal_movement,INGRESO,Trigo,28085,Campo Castro,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.375701
+d60c1ade-b638-444f-afbc-19548913d000,2026-01-03T05:52:33.118186,cereales,cereal_movement,INGRESO,Trigo,28942,Campo Blanco,González Moreno,González Moreno,2026-01-07T20:03:52.375732
+ab15dc14-b6a4-4484-bec9-c21d2b14ecce,2026-01-03T03:21:47.144112,cereales,cereal_movement,EGRESO,Trigo,29108,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.375754
+0ebd9336-7b27-43cc-8ee4-c5b738a2e496,2026-01-03T18:05:27.979797,cereales,cereal_movement,EGRESO,Maíz,27500,9 de Julio,Molino local,9 de Julio,2026-01-07T20:03:52.375776
+ad06e53b-b674-4585-b9f6-99ad6c04a630,2026-01-02T14:58:37.305858,cereales,cereal_movement,INGRESO,Soja,31393,Campo Sosa,Uriburu,Uriburu,2026-01-07T20:03:52.375805
+8c765056-763e-4145-9b3e-33f28baae7c4,2026-01-03T08:33:15.100694,cereales,cereal_movement,EGRESO,Trigo,29709,Santa Rosa,Molino local,Santa Rosa,2026-01-07T20:03:52.375826
+65888389-8b66-49c7-8a6e-805670911a6e,2026-01-03T00:39:55.704786,cereales,cereal_movement,EGRESO,Soja,28476,González Moreno,Molino local,González Moreno,2026-01-07T20:03:52.375845
+4d0aba7b-6ab6-4087-a73b-4025505a6a1a,2026-01-06T19:24:14.215602,cereales,cereal_movement,INGRESO,Soja,27357,Campo Correa,Catriló,Catriló,2026-01-07T20:03:52.375874
+a39697db-a52d-4767-b0bf-52b5d0c2eb61,2026-01-01T07:10:23.212821,cereales,cereal_movement,INGRESO,Maíz,31849,Campo Figueroa,González Moreno,González Moreno,2026-01-07T20:03:52.375904
+601b32f5-8392-453b-b521-16e89886209f,2026-01-06T07:21:10.540120,cereales,cereal_movement,EGRESO,Girasol,31570,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.375924
+4cb7dfc3-b1e0-44c0-af72-e12a8b2c4701,2026-01-01T23:04:16.018375,cereales,cereal_movement,EGRESO,Trigo,27135,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.375943
+c74cae5f-1893-47e1-9951-3b7848367897,2026-01-07T15:38:57.398099,cereales,cereal_movement,EGRESO,Maíz,29593,Cañada Seca,Puerto Bahía Blanca,Cañada Seca,2026-01-07T20:03:52.375962
+a325301a-7a39-46bb-bab4-4d449850617c,2026-01-06T18:18:02.718041,cereales,cereal_movement,INGRESO,Trigo,31603,Campo Vega,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.375990
+ee0866e5-9d26-497b-a0f7-a0992ddbf774,2026-01-01T17:38:58.322171,cereales,cereal_movement,INGRESO,Soja,27185,Campo Nuñez,Volta,Volta,2026-01-07T20:03:52.376019
+f8ba320f-7409-4b15-b6b1-2a949248db3a,2026-01-03T13:29:32.305645,cereales,cereal_movement,EGRESO,Maíz,28509,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.376039
+d387abcc-f1dc-41d1-9189-a900de6ae3e5,2026-01-07T11:55:44.313323,cereales,cereal_movement,EGRESO,Trigo,32894,Anguil,Molino local,Anguil,2026-01-07T20:03:52.376057
+7257b938-82f2-4a33-b244-f715725ab56d,2026-01-01T21:53:48.491281,cereales,cereal_movement,INGRESO,Trigo,31851,Campo Fernandez,9 de Julio,9 de Julio,2026-01-07T20:03:52.376085
+a7b5cb20-a8ef-49cf-a7bb-271130d568f4,2026-01-04T19:40:31.996405,cereales,cereal_movement,INGRESO,Soja,30052,Campo Duarte,Volta,Volta,2026-01-07T20:03:52.376122
+16e86488-b235-44b5-a9d2-b02a7a3c9c26,2026-01-05T16:44:17.183019,cereales,cereal_movement,EGRESO,Maíz,29286,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.376143
+67bd5dde-5b7f-41fd-9778-0c79a33486e2,2026-01-03T18:54:18.110102,cereales,cereal_movement,EGRESO,Soja,31304,Santa Rosa,Puerto Rosario,Santa Rosa,2026-01-07T20:03:52.376162
+a80f5cd7-aa05-466b-97b7-eb6af66d370d,2026-01-06T11:25:17.452508,cereales,cereal_movement,EGRESO,Girasol,32689,Anguil,Molino local,Anguil,2026-01-07T20:03:52.376179
+064e8f70-447f-4ccf-a6c0-0f175532011c,2026-01-04T03:48:09.929609,cereales,cereal_movement,INGRESO,Girasol,29783,Campo Gonzalez,Uriburu,Uriburu,2026-01-07T20:03:52.376216
+943a5ba2-d88c-4e8a-a20a-725af396b9e1,2026-01-05T13:57:32.586895,cereales,cereal_movement,EGRESO,Soja,26005,Uriburu,Fábrica balanceado,Uriburu,2026-01-07T20:03:52.376245
+17995ebf-3cda-4b6b-941b-ea80075c8913,2026-01-02T05:12:29.411771,cereales,cereal_movement,EGRESO,Trigo,31723,Santa Rosa,Puerto Bahía Blanca,Santa Rosa,2026-01-07T20:03:52.376268
+683eaeca-44dd-4cb7-abfa-f72c97c2f65b,2026-01-01T08:37:40.817939,cereales,cereal_movement,INGRESO,Girasol,26266,Campo Ponce,Uriburu,Uriburu,2026-01-07T20:03:52.376299
+475820d7-68ec-48db-aa6c-603ea1dd02ed,2026-01-07T04:49:35.394855,cereales,cereal_movement,INGRESO,Girasol,28518,Campo Franco,Volta,Volta,2026-01-07T20:03:52.376330
+f3b46fb8-39e0-401a-98bd-11f7f03ab942,2026-01-07T13:28:46.565974,cereales,cereal_movement,EGRESO,Soja,26092,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.376351
+178c8bfa-6f28-4571-8243-c323a1317570,2026-01-07T13:35:53.523998,cereales,cereal_movement,EGRESO,Girasol,26898,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.376370
+4bf5a35e-3fbc-456e-a474-3750446db531,2026-01-06T21:19:30.532703,cereales,cereal_movement,EGRESO,Soja,31374,Volta,Molino local,Volta,2026-01-07T20:03:52.376388
+d06976a5-bee4-4545-bcc7-523e2540ea13,2026-01-07T01:33:36.943878,cereales,cereal_movement,INGRESO,Maíz,28317,Campo Alvarez,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.376415
+ccdc90d9-7494-4ed2-8c80-89fd04a1a013,2026-01-04T07:17:41.361313,cereales,cereal_movement,INGRESO,Soja,26879,Campo Suarez,9 de Julio,9 de Julio,2026-01-07T20:03:52.376443
+d89f0e8b-dd83-4ece-8429-fc6160b23958,2026-01-06T08:25:53.972783,cereales,cereal_movement,INGRESO,Trigo,28430,Campo Ruiz,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.376471
+2a2cf89f-d3f0-4d82-9a3b-c2b6f6dc6443,2026-01-07T06:28:05.060421,cereales,cereal_movement,EGRESO,Trigo,31601,Santa Rosa,Molino local,Santa Rosa,2026-01-07T20:03:52.376490
+9209054d-378c-4f5a-bde2-59b5aac857e4,2026-01-06T10:25:48.067878,cereales,cereal_movement,EGRESO,Trigo,28459,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.376512
+7d9c93c3-8951-4a5f-b5a0-0d7d87be0ea0,2026-01-06T04:03:37.314468,cereales,cereal_movement,EGRESO,Trigo,32580,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.376535
+7efec4dc-8d34-48d6-b0da-aabb85377548,2026-01-02T13:19:50.634777,cereales,cereal_movement,EGRESO,Maíz,29961,9 de Julio,Molino local,9 de Julio,2026-01-07T20:03:52.376553
+bfce51ec-b6b8-4f0f-af1d-055e7e213515,2026-01-01T08:11:32.263743,cereales,cereal_movement,INGRESO,Trigo,26861,Campo Gomez,González Moreno,González Moreno,2026-01-07T20:03:52.376581
+d2ee47c2-63e2-4dc9-9b2a-fc71e8f68ea7,2026-01-01T10:42:08.246718,cereales,cereal_movement,EGRESO,Maíz,32979,González Moreno,Puerto Rosario,González Moreno,2026-01-07T20:03:52.376600
+0f446b3d-1fc9-4e59-9011-de35baf97aa9,2026-01-04T22:29:19.037897,cereales,cereal_movement,EGRESO,Maíz,26422,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.376618
+57b80e01-3b24-4e4b-9147-b691f6c948c7,2026-01-05T10:54:10.937541,cereales,cereal_movement,INGRESO,Trigo,27875,Campo Benitez,Catriló,Catriló,2026-01-07T20:03:52.376644
+522abea2-d6db-4cca-86b1-66ef579141ed,2026-01-02T20:52:10.724042,cereales,cereal_movement,EGRESO,Soja,30829,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.376663
+64d2c834-d994-41c3-9976-e03392f2e6dd,2026-01-02T19:53:45.340030,cereales,cereal_movement,EGRESO,Soja,31835,Cañada Seca,Molino local,Cañada Seca,2026-01-07T20:03:52.376680
+5e36384f-7cb7-44ff-a946-95d78953ac3b,2026-01-06T00:23:41.904344,cereales,cereal_movement,EGRESO,Trigo,29119,González Moreno,Fábrica balanceado,González Moreno,2026-01-07T20:03:52.376698
+06707c81-302d-4a43-86eb-fdea1d739e95,2026-01-01T21:18:22.362900,cereales,cereal_movement,INGRESO,Maíz,30465,Campo Martinez,Volta,Volta,2026-01-07T20:03:52.376732
+edbe1fb2-56be-45fd-9ec7-31c07e04ae10,2026-01-04T02:46:20.458786,cereales,cereal_movement,INGRESO,Trigo,29038,Campo Aguero,Uriburu,Uriburu,2026-01-07T20:03:52.376765
+b591232b-a4f5-4238-bb3c-750f19da44c2,2026-01-04T04:12:20.684501,cereales,cereal_movement,EGRESO,Girasol,27228,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.376786
+45d83c54-b5d5-4aba-bec0-378715cc966a,2026-01-01T07:36:27.472377,cereales,cereal_movement,EGRESO,Trigo,30736,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.376806
+5967e6d1-8a9e-4aa0-8485-5de22eefa25a,2026-01-03T14:23:54.081325,cereales,cereal_movement,EGRESO,Trigo,28663,Cañada Seca,Fábrica balanceado,Cañada Seca,2026-01-07T20:03:52.376824
+0e081206-07a9-48e7-bde6-4a128a352f1c,2026-01-07T16:20:31.116405,cereales,cereal_movement,EGRESO,Girasol,26925,Cañada Seca,Fábrica balanceado,Cañada Seca,2026-01-07T20:03:52.376842
+6dc9905f-de6a-4e66-99fb-5feafd6b3b8a,2026-01-05T14:23:00.706997,cereales,cereal_movement,EGRESO,Maíz,32640,9 de Julio,Puerto Bahía Blanca,9 de Julio,2026-01-07T20:03:52.376859
+380c2bbe-8812-481e-beb9-2faf50d6b26c,2026-01-05T21:58:46.338553,cereales,cereal_movement,INGRESO,Girasol,29678,Campo Toledo,Uriburu,Uriburu,2026-01-07T20:03:52.376887
+e07bfa76-4886-4ea0-a028-3ba3ad6eb1a1,2026-01-03T14:05:24.576119,cereales,cereal_movement,INGRESO,Soja,29491,Campo Sosa,Catriló,Catriló,2026-01-07T20:03:52.376914
+8938713d-900a-4255-8f1a-65501bd5365b,2026-01-06T02:53:13.084250,cereales,cereal_movement,EGRESO,Soja,26283,Catriló,Puerto Rosario,Catriló,2026-01-07T20:03:52.376938
+f558c5c7-8b3c-4bb0-9807-a88de35fb403,2026-01-03T13:09:06.598216,cereales,cereal_movement,INGRESO,Soja,27912,Campo Gomez,Uriburu,Uriburu,2026-01-07T20:03:52.376968
+9302cf3c-cf83-46cd-8399-30f19b560a81,2026-01-01T00:16:52.036730,cereales,cereal_movement,EGRESO,Trigo,28315,Catriló,Molino local,Catriló,2026-01-07T20:03:52.376988
+501985fa-17a2-4948-a3f0-a0ac8a49d57b,2026-01-02T11:30:58.924543,cereales,cereal_movement,INGRESO,Trigo,30638,Campo Gomez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.377015
+0fe08fa2-efc6-403e-a1bc-62136162d5d0,2026-01-03T05:10:02.054290,cereales,cereal_movement,EGRESO,Maíz,30041,Catriló,Puerto Rosario,Catriló,2026-01-07T20:03:52.377035
+ee781a3a-15ac-45c2-9560-7715b3678d36,2026-01-02T12:33:34.224633,cereales,cereal_movement,INGRESO,Girasol,31260,Campo Ledesma,Anguil,Anguil,2026-01-07T20:03:52.377061
+dd808f89-7ebe-4131-8ad3-8fe713632247,2026-01-02T18:45:51.936354,cereales,cereal_movement,INGRESO,Trigo,26040,Campo Gonzalez,Volta,Volta,2026-01-07T20:03:52.377089
+c991804d-a762-4ae7-96fa-a976be1e2b8f,2026-01-04T21:27:28.552387,cereales,cereal_movement,EGRESO,Maíz,26740,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.377108
+d10e1773-ac0a-447a-b2dd-6731174b1862,2026-01-03T02:30:09.241373,cereales,cereal_movement,EGRESO,Girasol,26614,Volta,Molino local,Volta,2026-01-07T20:03:52.377126
+324d7b07-bbc7-4149-aa51-d8c2fd055708,2026-01-07T07:39:05.436703,cereales,cereal_movement,INGRESO,Soja,31499,Campo Fernandez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.377162
+3ba3c0d6-720f-4db1-81a7-1dbae592f953,2026-01-06T16:35:57.719297,cereales,cereal_movement,EGRESO,Girasol,26263,González Moreno,Fábrica balanceado,González Moreno,2026-01-07T20:03:52.377183
+1ba74258-5736-4c79-b468-c638751fcfe0,2026-01-01T03:47:16.059003,cereales,cereal_movement,INGRESO,Girasol,25582,Campo Fernandez,9 de Julio,9 de Julio,2026-01-07T20:03:52.377211
+afa1dcb6-c41d-43b6-bc01-edf3d68ae563,2026-01-07T04:30:21.767336,cereales,cereal_movement,EGRESO,Maíz,28524,Santa Rosa,Puerto Rosario,Santa Rosa,2026-01-07T20:03:52.377230
+4eabf840-5346-4d7d-b8b7-440fb457345a,2026-01-03T07:28:07.201817,cereales,cereal_movement,INGRESO,Trigo,31303,Campo Caceres,Catriló,Catriló,2026-01-07T20:03:52.377256
+8f7648db-2517-4700-addb-5589e43df145,2026-01-02T14:40:01.879145,cereales,cereal_movement,EGRESO,Maíz,33550,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.377275
+56350519-937f-4ec8-bdb2-492c22d1dc11,2026-01-05T05:34:30.676623,cereales,cereal_movement,INGRESO,Maíz,28851,Campo Juarez,Anguil,Anguil,2026-01-07T20:03:52.377302
+e365ccaa-8369-4094-a868-2dcec90debb1,2026-01-04T16:42:58.700928,cereales,cereal_movement,EGRESO,Maíz,32484,Volta,Puerto Bahía Blanca,Volta,2026-01-07T20:03:52.377325
+984c98cf-38e8-40f2-bd83-c5f0cd94c0b2,2026-01-01T05:57:40.210093,cereales,cereal_movement,EGRESO,Maíz,30784,González Moreno,Puerto Rosario,González Moreno,2026-01-07T20:03:52.377343
+c65a270e-a3f1-4cf3-9bae-701853b74870,2026-01-05T13:52:38.649295,cereales,cereal_movement,EGRESO,Maíz,27304,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.377362
+c529730e-c353-475c-a473-536cd231e851,2026-01-05T18:13:50.931221,cereales,cereal_movement,INGRESO,Girasol,31178,Campo Rodriguez,Anguil,Anguil,2026-01-07T20:03:52.377392
+ed557c77-a29d-460a-9a85-ce7e304f4cde,2026-01-06T22:24:29.420532,cereales,cereal_movement,INGRESO,Soja,25116,Campo Ruiz,9 de Julio,9 de Julio,2026-01-07T20:03:52.377422
+bc43f7e9-0664-4982-95cf-d490c38eec78,2026-01-05T02:38:15.983644,cereales,cereal_movement,INGRESO,Trigo,30194,Campo Chavez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.377450
+3d4f0db1-dbd2-4f35-a17e-adf3544d7aad,2026-01-02T09:33:34.261838,cereales,cereal_movement,INGRESO,Trigo,30341,Campo Pereyra,Catriló,Catriló,2026-01-07T20:03:52.377477
+a9e18619-594f-44b1-a556-f0c8cf03e32d,2026-01-06T15:03:27.639873,cereales,cereal_movement,INGRESO,Maíz,26382,Campo Perez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.377505
+b80fc3d3-ad10-4bcd-94a2-2e86116b3746,2026-01-03T17:53:14.528366,cereales,cereal_movement,EGRESO,Maíz,31497,Cañada Seca,Puerto Bahía Blanca,Cañada Seca,2026-01-07T20:03:52.377527
+05feb2d5-4f61-4b89-a1e9-ee02d6898035,2026-01-02T03:04:11.103299,cereales,cereal_movement,INGRESO,Maíz,29429,Campo Quiroga,Anguil,Anguil,2026-01-07T20:03:52.377556
+12edfb5d-f4e7-41bd-a621-405369ae1e6b,2026-01-06T21:03:34.569625,cereales,cereal_movement,INGRESO,Trigo,25815,Campo Cabrera,9 de Julio,9 de Julio,2026-01-07T20:03:52.377583
+ada48095-0f50-4a26-b7cd-8902b2333ff2,2026-01-06T02:57:44.643635,cereales,cereal_movement,EGRESO,Maíz,28706,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.377602
+31b208bd-824f-4a85-af4c-ba5bcea1b00c,2026-01-05T13:57:01.815745,cereales,cereal_movement,INGRESO,Soja,25783,Campo Paz,González Moreno,González Moreno,2026-01-07T20:03:52.377628
+9c0d1463-5c7e-43fc-9ba8-5a71b57f8579,2026-01-06T00:24:05.051567,cereales,cereal_movement,EGRESO,Soja,30062,Anguil,Molino local,Anguil,2026-01-07T20:03:52.377647
+93f2e426-1117-4199-9d16-c1cf53fbc613,2026-01-06T09:28:45.509235,cereales,cereal_movement,EGRESO,Maíz,32864,Catriló,Molino local,Catriló,2026-01-07T20:03:52.377665
+89e144b1-31b8-413d-b70f-7a414b0865d7,2026-01-02T23:51:08.431359,cereales,cereal_movement,EGRESO,Girasol,30929,Santa Rosa,Puerto Rosario,Santa Rosa,2026-01-07T20:03:52.377683
+1e48f80f-b96d-4f2e-91aa-c24fd8487b17,2026-01-03T22:24:42.856181,cereales,cereal_movement,INGRESO,Soja,26798,Campo Aguero,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.377813
+3ce38488-811d-4ca5-bd12-da50c2a32422,2026-01-04T18:50:35.402169,cereales,cereal_movement,INGRESO,Trigo,31987,Campo Ledesma,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.377857
+da9fdb1e-bcbe-43a8-9666-53325087cff6,2026-01-06T17:40:35.198038,cereales,cereal_movement,INGRESO,Maíz,30489,Campo Benitez,González Moreno,González Moreno,2026-01-07T20:03:52.377891
+9ce52789-442b-4d7c-be2a-f041d7022ff5,2026-01-03T20:52:26.527604,cereales,cereal_movement,EGRESO,Soja,33509,Uriburu,Molino local,Uriburu,2026-01-07T20:03:52.377913
+279201ae-626c-45a5-89ed-71cbfd989c2d,2026-01-05T11:00:31.352289,cereales,cereal_movement,EGRESO,Girasol,29793,González Moreno,Puerto Bahía Blanca,González Moreno,2026-01-07T20:03:52.377933
+82b7032f-3c55-42d8-b89c-afd659660fa6,2026-01-03T02:25:51.591064,cereales,cereal_movement,EGRESO,Maíz,30642,Anguil,Puerto Rosario,Anguil,2026-01-07T20:03:52.377952
+5d5d4f65-6bd8-42c9-a808-8bd546d669ad,2026-01-01T04:10:13.564008,cereales,cereal_movement,INGRESO,Girasol,27840,Campo Godoy,9 de Julio,9 de Julio,2026-01-07T20:03:52.377986
+f734e6f0-3895-47f4-bc85-6b9866457850,2026-01-07T09:35:44.772955,cereales,cereal_movement,EGRESO,Soja,30224,Catriló,Fábrica balanceado,Catriló,2026-01-07T20:03:52.378007
+2b8854e5-00a2-4a37-ba8d-f55867dfc2f0,2026-01-03T19:41:03.968059,cereales,cereal_movement,EGRESO,Maíz,31479,9 de Julio,Puerto Bahía Blanca,9 de Julio,2026-01-07T20:03:52.378026
+b0e3f52e-1d84-47ec-b28d-7f5eb7a03d21,2026-01-01T09:25:33.176425,cereales,cereal_movement,INGRESO,Soja,25350,Campo Vega,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.378057
+ea590ce2-2fa1-4630-a27f-4acf2879eda0,2026-01-01T09:20:46.959734,cereales,cereal_movement,EGRESO,Soja,33262,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.378078
+df9dabb6-af74-41da-b030-db4d2adf1a2c,2026-01-02T14:18:04.519440,cereales,cereal_movement,EGRESO,Girasol,32317,Cañada Seca,Puerto Bahía Blanca,Cañada Seca,2026-01-07T20:03:52.378097
+18840463-0b2b-413f-b6d2-502634200c06,2026-01-03T02:15:07.372369,cereales,cereal_movement,INGRESO,Maíz,31334,Campo Cardozo,Volta,Volta,2026-01-07T20:03:52.378125
+204bc3be-3b62-4b11-99e7-8db1b9cdb106,2026-01-01T09:47:45.671507,cereales,cereal_movement,INGRESO,Maíz,26774,Campo Vazquez,González Moreno,González Moreno,2026-01-07T20:03:52.378153
+06e33c38-1a26-43c6-90c3-caf8ca7269f3,2026-01-01T18:11:24.604477,cereales,cereal_movement,EGRESO,Soja,28900,Cañada Seca,Molino local,Cañada Seca,2026-01-07T20:03:52.378173
+c80f03dd-6985-4eeb-91e9-3e7441fab264,2026-01-06T22:10:11.699105,cereales,cereal_movement,EGRESO,Trigo,31710,Trenque Lauquen,Puerto Bahía Blanca,Trenque Lauquen,2026-01-07T20:03:52.378192
+aa511712-da24-4275-84db-e27488c7edda,2026-01-07T15:07:25.053623,cereales,cereal_movement,EGRESO,Maíz,33913,9 de Julio,Fábrica balanceado,9 de Julio,2026-01-07T20:03:52.378210
+5d5ccd03-860f-4fd8-a17c-b8cf1f05d581,2026-01-01T19:51:03.926203,cereales,cereal_movement,EGRESO,Soja,31116,Uriburu,Puerto Rosario,Uriburu,2026-01-07T20:03:52.378228
+647bbf06-fb3a-4e0a-b1fc-b65980a5e21f,2026-01-01T20:11:20.151557,cereales,cereal_movement,EGRESO,Soja,29575,Trenque Lauquen,Fábrica balanceado,Trenque Lauquen,2026-01-07T20:03:52.378247
+815976a8-b343-4f74-840f-ea6d058e7171,2026-01-02T01:06:45.294304,cereales,cereal_movement,EGRESO,Trigo,33585,9 de Julio,Fábrica balanceado,9 de Julio,2026-01-07T20:03:52.378264
+9e092a69-c595-49bd-8703-46bd94506a77,2026-01-04T20:48:15.900257,cereales,cereal_movement,INGRESO,Girasol,27011,Campo Barrios,9 de Julio,9 de Julio,2026-01-07T20:03:52.378292
+bd06a323-2c3a-45ca-98f1-92bd474e1390,2026-01-01T18:20:13.331239,cereales,cereal_movement,EGRESO,Soja,28526,Santa Rosa,Molino local,Santa Rosa,2026-01-07T20:03:52.378311
+7d4106f5-59c2-472f-bcbe-97c2eabc3d69,2026-01-06T19:06:44.494716,cereales,cereal_movement,INGRESO,Trigo,27931,Campo Ramos,Anguil,Anguil,2026-01-07T20:03:52.378338
+83723cbc-b13d-4815-a22b-e5bc362d7df9,2026-01-03T02:01:29.872023,cereales,cereal_movement,INGRESO,Soja,29353,Campo Juarez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.378367
+f845d541-27b6-4bce-82dc-7c342d43dd2c,2026-01-04T02:34:18.982303,cereales,cereal_movement,EGRESO,Trigo,33598,González Moreno,Puerto Bahía Blanca,González Moreno,2026-01-07T20:03:52.378399
+63b219c2-b797-499a-abce-bc006dda16d3,2026-01-01T15:01:49.522351,cereales,cereal_movement,INGRESO,Girasol,28574,Campo Mansilla,9 de Julio,9 de Julio,2026-01-07T20:03:52.378465
+7f79a928-ccb5-420b-a1eb-61b2d45217fa,2026-01-07T01:40:17.631768,cereales,cereal_movement,EGRESO,Soja,29384,Trenque Lauquen,Molino local,Trenque Lauquen,2026-01-07T20:03:52.378490
+a3643ae9-afc1-4ee3-b8a5-3b67d82145a2,2026-01-06T23:21:17.368332,cereales,cereal_movement,EGRESO,Girasol,33433,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.378510
+c85e3499-c0b0-49d7-9676-391e6272fd04,2026-01-05T17:33:42.168430,cereales,cereal_movement,INGRESO,Maíz,28126,Campo Olivera,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.378540
+0bac8e75-538f-4c29-8061-a563758cb423,2026-01-03T17:13:59.207048,cereales,cereal_movement,INGRESO,Maíz,27444,Campo Mendez,9 de Julio,9 de Julio,2026-01-07T20:03:52.378574
+615c9c08-d2f1-41b6-a157-8cd5ff292c87,2026-01-01T20:56:11.411555,cereales,cereal_movement,INGRESO,Trigo,31948,Campo Duarte,González Moreno,González Moreno,2026-01-07T20:03:52.378604
+b6887c31-9ae3-4c8c-98bd-a95a56af3525,2026-01-05T18:58:10.760218,cereales,cereal_movement,EGRESO,Trigo,31832,Volta,Puerto Bahía Blanca,Volta,2026-01-07T20:03:52.378624
+8f7ed7dd-b573-4c20-8e08-0a45fcef4ed8,2026-01-05T20:03:07.567754,cereales,cereal_movement,INGRESO,Trigo,27091,Campo Caceres,González Moreno,González Moreno,2026-01-07T20:03:52.378652
+a0c969b1-832a-48ce-91ac-acd4be670908,2026-01-03T00:29:06.046229,cereales,cereal_movement,EGRESO,Soja,29744,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.378672
+d3038f2a-df6d-4d43-84ff-f75e81af639d,2026-01-06T14:50:37.690303,cereales,cereal_movement,INGRESO,Trigo,28620,Campo Maldonado,Catriló,Catriló,2026-01-07T20:03:52.378699
+7a96b822-7da7-48a4-b4c1-95e95c03f82a,2026-01-07T12:02:06.971270,cereales,cereal_movement,EGRESO,Soja,26116,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.378726
+453a0083-d4e8-41b1-9934-2d51e0a4c366,2026-01-02T04:19:31.516382,cereales,cereal_movement,INGRESO,Soja,31015,Campo Diaz,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.378754
+d3506a93-d206-45da-bd33-da7d4de74bf1,2026-01-04T16:33:16.249099,cereales,cereal_movement,EGRESO,Soja,31336,Catriló,Puerto Bahía Blanca,Catriló,2026-01-07T20:03:52.378774
+89910107-0ee5-4274-81b3-a1ac4b1e5f20,2026-01-02T16:03:48.899259,cereales,cereal_movement,INGRESO,Maíz,31332,Campo Ruiz,Uriburu,Uriburu,2026-01-07T20:03:52.378801
+363b46f0-6a8f-4cb2-b97d-2e102f200ff1,2026-01-05T00:53:45.989292,cereales,cereal_movement,INGRESO,Soja,28028,Campo Lopez,González Moreno,González Moreno,2026-01-07T20:03:52.378828
+66b5a622-564e-4b9d-bf2c-63149699a7c1,2026-01-03T23:21:19.480451,cereales,cereal_movement,EGRESO,Trigo,30168,Santa Rosa,Puerto Rosario,Santa Rosa,2026-01-07T20:03:52.378847
+00f76aee-09dd-460b-a9d9-1ad2a17f5ed2,2026-01-04T23:25:00.102829,cereales,cereal_movement,INGRESO,Girasol,26853,Campo Leiva,González Moreno,González Moreno,2026-01-07T20:03:52.378874
+d45ce11b-5326-4875-838d-72dc4d425c8e,2026-01-06T23:47:19.762819,cereales,cereal_movement,INGRESO,Maíz,31401,Campo Villalba,Uriburu,Uriburu,2026-01-07T20:03:52.378902
+8849574c-cbe3-43e0-9998-a10c0f5fcbf6,2026-01-03T04:32:26.632216,cereales,cereal_movement,INGRESO,Soja,30179,Campo Pereyra,Catriló,Catriló,2026-01-07T20:03:52.378929
+ce7d35ea-5ddc-4277-9d8c-50c9dd633048,2026-01-02T19:50:51.602371,cereales,cereal_movement,EGRESO,Girasol,33649,Trenque Lauquen,Molino local,Trenque Lauquen,2026-01-07T20:03:52.378947
+8f68abe5-5485-4273-9644-9425df464a15,2026-01-05T20:00:39.298110,cereales,cereal_movement,EGRESO,Soja,33644,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.378966
+d12c736f-03fc-4a68-9094-bd63039eb0e9,2026-01-01T01:21:34.734035,cereales,cereal_movement,INGRESO,Maíz,26733,Campo Gonzalez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.378993
+50cd835a-a36d-4e58-a10d-62dada728610,2026-01-03T21:53:43.099690,cereales,cereal_movement,INGRESO,Trigo,25721,Campo Martinez,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.379021
+183303dd-5b1e-42bc-b732-4929e037d6dc,2026-01-01T05:06:58.986404,cereales,cereal_movement,EGRESO,Girasol,26117,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.379041
+ac640719-1e4e-49f8-9237-1fe277590ddf,2026-01-05T15:30:48.976195,cereales,cereal_movement,EGRESO,Soja,30285,Uriburu,Molino local,Uriburu,2026-01-07T20:03:52.379059
+7a83f2ce-961e-457c-ad48-8fe35c4bc246,2026-01-04T05:41:35.649543,cereales,cereal_movement,EGRESO,Maíz,30770,González Moreno,Puerto Rosario,González Moreno,2026-01-07T20:03:52.379077
+5241a464-a97d-4a94-976d-de72a761ebce,2026-01-03T17:33:31.562721,cereales,cereal_movement,INGRESO,Soja,29448,Campo Sanchez,Uriburu,Uriburu,2026-01-07T20:03:52.379104
+e93bd36d-8b19-47bd-8413-01192861dabf,2026-01-06T07:33:20.424979,cereales,cereal_movement,INGRESO,Soja,29044,Campo Castro,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.379132
+25de36e0-4810-4c0b-a9ca-82b70ed4c6b3,2026-01-03T05:10:32.620695,cereales,cereal_movement,INGRESO,Trigo,30244,Campo Correa,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.379159
+59af3a09-9512-46fc-b3f6-0cd769de6718,2026-01-06T07:20:29.835911,cereales,cereal_movement,INGRESO,Trigo,26440,Campo Farias,González Moreno,González Moreno,2026-01-07T20:03:52.379189
+39db4af2-a9c2-48ba-add8-885b73949479,2026-01-02T00:00:06.278232,cereales,cereal_movement,EGRESO,Trigo,30844,Catriló,Molino local,Catriló,2026-01-07T20:03:52.379209
+ca637281-20e4-4384-947f-9ae2c71adfcc,2026-01-04T12:22:49.639357,cereales,cereal_movement,INGRESO,Trigo,29046,Campo Luna,Volta,Volta,2026-01-07T20:03:52.379236
+91274449-29b6-46be-8af7-19629a9478d5,2026-01-01T12:12:53.091640,cereales,cereal_movement,INGRESO,Trigo,28736,Campo Caceres,Anguil,Anguil,2026-01-07T20:03:52.379262
+8f5a40f3-48a0-45fc-aa30-0684693ac11a,2026-01-05T18:32:32.641203,cereales,cereal_movement,EGRESO,Girasol,28768,9 de Julio,Molino local,9 de Julio,2026-01-07T20:03:52.379281
+c91b5c13-a407-40dd-b592-80ba5b5f1f7a,2026-01-06T10:09:40.263336,cereales,cereal_movement,INGRESO,Trigo,29663,Campo Gomez,González Moreno,González Moreno,2026-01-07T20:03:52.379309
+966d8d69-4082-40d4-a57c-a4d3bc8b78ce,2026-01-05T13:46:57.438118,cereales,cereal_movement,INGRESO,Trigo,28207,Campo Diaz,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.379336
+afc388cc-11ed-4850-9195-e8039480f4a8,2026-01-02T11:37:23.230683,cereales,cereal_movement,INGRESO,Maíz,28081,Campo Maldonado,González Moreno,González Moreno,2026-01-07T20:03:52.379370
+0a8aac54-dd49-44d9-8de7-6de518549fa0,2026-01-05T18:17:16.891464,cereales,cereal_movement,INGRESO,Trigo,28932,Campo Aguirre,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.379399
+a2871640-7a91-4462-a830-d43f19adf0a3,2026-01-05T12:16:26.260746,cereales,cereal_movement,EGRESO,Maíz,26544,Santa Rosa,Puerto Rosario,Santa Rosa,2026-01-07T20:03:52.379420
+e62a6ce6-fa2a-440f-a464-94f5d636aacb,2026-01-02T19:16:28.954953,cereales,cereal_movement,INGRESO,Soja,26724,Campo Ponce,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.379448
+d397bba3-fa47-4212-b913-a929d84f9bda,2026-01-07T13:49:14.470134,cereales,cereal_movement,INGRESO,Maíz,31291,Campo Torres,Uriburu,Uriburu,2026-01-07T20:03:52.379475
+025c55a4-b82f-4945-9b3c-29d63806acae,2026-01-06T15:07:44.092230,cereales,cereal_movement,EGRESO,Maíz,30151,González Moreno,Fábrica balanceado,González Moreno,2026-01-07T20:03:52.379495
+41c2712c-fb32-43da-941a-28d360355975,2026-01-06T04:53:54.349184,cereales,cereal_movement,EGRESO,Girasol,29393,González Moreno,Fábrica balanceado,González Moreno,2026-01-07T20:03:52.379513
+092004f2-58b6-40e0-8673-8ca4a15745d2,2026-01-04T10:44:17.473454,cereales,cereal_movement,EGRESO,Trigo,30149,Volta,Puerto Bahía Blanca,Volta,2026-01-07T20:03:52.379531
+d93ff860-ffb1-42bc-bd2a-9276f2e63ea9,2026-01-01T03:57:27.398260,cereales,cereal_movement,EGRESO,Trigo,33174,González Moreno,Molino local,González Moreno,2026-01-07T20:03:52.379549
+ca93ba54-6596-489e-a8ca-29ac71b43220,2026-01-07T07:13:43.722341,cereales,cereal_movement,INGRESO,Trigo,31234,Campo Barrios,Volta,Volta,2026-01-07T20:03:52.379576
+7cb9408e-4b49-4422-ab09-2263af8bbcce,2026-01-02T19:58:38.789300,cereales,cereal_movement,EGRESO,Maíz,31998,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.379595
+f806b186-bf5e-48ba-a7b4-9b8945cf4490,2026-01-05T19:15:12.189578,cereales,cereal_movement,EGRESO,Maíz,28527,Uriburu,Fábrica balanceado,Uriburu,2026-01-07T20:03:52.379613
+541fd136-61f3-4640-a9ca-d554507d427d,2026-01-03T21:37:23.070460,cereales,cereal_movement,EGRESO,Soja,29996,Volta,Molino local,Volta,2026-01-07T20:03:52.379631
+a8defdc7-9527-459a-a077-ad123c06dd74,2026-01-01T16:20:23.875012,cereales,cereal_movement,EGRESO,Soja,26438,Catriló,Puerto Rosario,Catriló,2026-01-07T20:03:52.379648
+37f5be80-b3a0-4821-9cfb-fb312debf0a8,2026-01-07T15:41:17.099822,cereales,cereal_movement,EGRESO,Girasol,29455,González Moreno,Molino local,González Moreno,2026-01-07T20:03:52.379666
+839fdc06-a042-47e7-b98d-197bba2cfa95,2026-01-06T10:57:27.222888,cereales,cereal_movement,INGRESO,Maíz,25762,Campo Alvarez,Anguil,Anguil,2026-01-07T20:03:52.379692
+89e9d987-7b6f-4ba2-8c18-f4464b5c8ba1,2026-01-01T01:46:32.984806,cereales,cereal_movement,INGRESO,Trigo,29958,Campo Fernandez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.379719
+86a8e4c5-dc0c-4213-a3ac-88f69771540a,2026-01-01T10:03:37.122098,cereales,cereal_movement,INGRESO,Soja,27422,Campo Diaz,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.379752
+d84633b7-fa2d-4971-a500-9aa8bb664d3c,2026-01-04T10:24:30.082195,cereales,cereal_movement,EGRESO,Trigo,30537,Catriló,Puerto Rosario,Catriló,2026-01-07T20:03:52.379772
+6475b38d-fe30-46f0-a68a-c653f031a8a1,2026-01-06T05:11:32.187018,cereales,cereal_movement,EGRESO,Soja,30238,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.379790
+8eab486f-f157-4549-bf86-fdd553f43395,2026-01-07T13:19:15.467847,cereales,cereal_movement,INGRESO,Maíz,25441,Campo Gonzalez,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.379817
+7935667f-0cca-4da4-b175-1fb430a44eae,2026-01-06T08:07:18.397492,cereales,cereal_movement,EGRESO,Soja,26094,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.379836
+e585eb8d-0e41-4045-abf7-e75d0226bbd2,2026-01-03T17:10:11.699483,cereales,cereal_movement,INGRESO,Soja,31112,Campo Garcia,9 de Julio,9 de Julio,2026-01-07T20:03:52.379862
+734b76c7-02c0-4e23-a599-9ba12012103d,2026-01-01T03:28:05.157568,cereales,cereal_movement,EGRESO,Trigo,30329,Trenque Lauquen,Molino local,Trenque Lauquen,2026-01-07T20:03:52.379885
+a08883e2-ff68-4c09-affb-5da48f95a682,2026-01-04T02:51:02.946899,cereales,cereal_movement,INGRESO,Soja,30157,Campo Miranda,9 de Julio,9 de Julio,2026-01-07T20:03:52.379914
+437f36a7-c3d4-4fa1-b31f-1b14df196aec,2026-01-03T14:00:56.236024,cereales,cereal_movement,EGRESO,Trigo,31175,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.379938
+23253682-0bad-42db-833f-b92a90532d49,2026-01-01T23:47:08.150085,cereales,cereal_movement,INGRESO,Maíz,28944,Campo Peralta,Catriló,Catriló,2026-01-07T20:03:52.379965
+d44a4476-c132-40ae-ba17-c0fa1ba6b72d,2026-01-07T10:44:43.016594,cereales,cereal_movement,INGRESO,Maíz,30688,Campo Sosa,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.379993
+db0ea2a9-6f80-442a-8e7a-b87079be6fcb,2026-01-05T03:03:31.860039,cereales,cereal_movement,INGRESO,Soja,30760,Campo Romero,Volta,Volta,2026-01-07T20:03:52.380020
+553e245d-c55b-4bdc-aecd-6212ac700aff,2026-01-07T12:29:12.524161,cereales,cereal_movement,INGRESO,Maíz,29559,Campo Ramirez,Volta,Volta,2026-01-07T20:03:52.380046
+86b1bda9-bdbf-49c9-9fed-a21bcd64e3bd,2026-01-02T05:35:23.242734,cereales,cereal_movement,EGRESO,Maíz,30881,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.380064
+236910b7-8746-4222-bc35-e076676f77f9,2026-01-07T04:18:28.077047,cereales,cereal_movement,INGRESO,Trigo,27648,Campo Barrios,9 de Julio,9 de Julio,2026-01-07T20:03:52.380090
+13410ab4-e106-4cb2-b9ba-8050de6689d3,2026-01-07T16:18:46.674911,cereales,cereal_movement,INGRESO,Trigo,27567,Campo Fernandez,Anguil,Anguil,2026-01-07T20:03:52.380116
+da3f455d-a941-48fb-aad2-e6ac3eb07f43,2026-01-05T08:49:03.644656,cereales,cereal_movement,EGRESO,Trigo,28642,González Moreno,Puerto Rosario,González Moreno,2026-01-07T20:03:52.380134
+079da539-9c95-46ff-bc71-f186b68290f7,2026-01-02T06:31:37.016574,cereales,cereal_movement,EGRESO,Girasol,32721,Trenque Lauquen,Puerto Bahía Blanca,Trenque Lauquen,2026-01-07T20:03:52.380153
+459ba525-e474-4526-993a-85b42a734a89,2026-01-05T19:52:50.748702,cereales,cereal_movement,INGRESO,Girasol,28241,Campo Torres,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.380179
+badd0a23-7e49-49f8-a3db-275e411ebf32,2026-01-04T23:00:28.411443,cereales,cereal_movement,EGRESO,Maíz,33081,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.380198
+60bf8fc4-2c47-44c1-b0cd-5bb49e58bf4a,2026-01-03T21:00:34.671230,cereales,cereal_movement,EGRESO,Girasol,26904,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.380217
+04956192-ed89-4953-96dd-251f3dcda620,2026-01-06T14:03:41.799019,cereales,cereal_movement,INGRESO,Soja,30166,Campo Sosa,Volta,Volta,2026-01-07T20:03:52.380243
+fff6d427-b59a-433c-bfe7-ec9f0a7f9e08,2026-01-02T08:39:14.496621,cereales,cereal_movement,EGRESO,Soja,30039,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.380261
+b54a49b3-9a97-4623-9406-61a815deb08c,2026-01-03T04:29:11.825754,cereales,cereal_movement,INGRESO,Girasol,31337,Campo Villalba,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.380287
+df7cf27e-8f79-44f9-b892-6a85f0f2256f,2026-01-04T12:03:44.805903,cereales,cereal_movement,INGRESO,Maíz,31775,Campo Gonzalez,Volta,Volta,2026-01-07T20:03:52.380313
+a844efae-3a36-458d-9728-5bc1c5785132,2026-01-07T14:35:23.193590,cereales,cereal_movement,INGRESO,Maíz,25282,Campo Muñoz,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.380351
+631f2a9b-c4a2-4f5e-85ea-7fbc600f29c6,2026-01-04T20:42:24.482141,cereales,cereal_movement,EGRESO,Soja,31089,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.380371
+deb2c7ec-580e-4ba1-854a-61ab4168ada9,2026-01-01T20:21:47.757119,cereales,cereal_movement,INGRESO,Maíz,29567,Campo Luna,9 de Julio,9 de Julio,2026-01-07T20:03:52.380397
+dc9622cb-4e6e-44a2-8972-f6fbf47db851,2026-01-03T17:07:26.114573,cereales,cereal_movement,INGRESO,Trigo,29849,Campo Aguirre,Volta,Volta,2026-01-07T20:03:52.380424
+960778a5-d3e0-4c12-b42b-16104f9d3225,2026-01-07T15:38:55.620626,cereales,cereal_movement,INGRESO,Trigo,28342,Campo Fernandez,Catriló,Catriló,2026-01-07T20:03:52.380450
+308b83bb-bd8a-4703-ab7e-2f1f36198a95,2026-01-02T21:24:03.358409,cereales,cereal_movement,INGRESO,Maíz,31339,Campo Gonzalez,Uriburu,Uriburu,2026-01-07T20:03:52.380476
+636d4948-26e7-4cc9-bfcc-613e92420e8d,2026-01-03T18:31:35.237497,cereales,cereal_movement,INGRESO,Girasol,26503,Campo Castillo,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.380521
+23b03976-6f4e-4209-abf1-01244be07dae,2026-01-02T14:07:51.297943,cereales,cereal_movement,INGRESO,Girasol,28242,Campo Acosta,Anguil,Anguil,2026-01-07T20:03:52.380554
+5633459b-fb5a-4982-af36-a0a29c3ddd2c,2026-01-06T04:27:38.734375,cereales,cereal_movement,INGRESO,Trigo,30518,Campo Gonzalez,Uriburu,Uriburu,2026-01-07T20:03:52.380588
+ae3726cb-9153-4214-a715-7183e439cecd,2026-01-05T00:34:05.601440,cereales,cereal_movement,EGRESO,Girasol,26112,Cañada Seca,Puerto Bahía Blanca,Cañada Seca,2026-01-07T20:03:52.380610
+14e721c1-ea17-4d63-9005-77e294b293ed,2026-01-06T11:08:16.341137,cereales,cereal_movement,EGRESO,Girasol,33743,Cañada Seca,Molino local,Cañada Seca,2026-01-07T20:03:52.380628
+f152f247-5c54-42f0-a623-fbc76bca9fc6,2026-01-01T03:49:49.059415,cereales,cereal_movement,EGRESO,Trigo,28968,González Moreno,Puerto Bahía Blanca,González Moreno,2026-01-07T20:03:52.380647
+f1502cfb-7160-4819-91b8-670308c0803a,2026-01-06T11:20:47.367339,cereales,cereal_movement,INGRESO,Maíz,30936,Campo Ferreyra,Catriló,Catriló,2026-01-07T20:03:52.380674
+50fee9b0-b1bd-4516-ace3-b1ebb0b44fdb,2026-01-01T20:02:38.326139,cereales,cereal_movement,EGRESO,Trigo,30397,Anguil,Molino local,Anguil,2026-01-07T20:03:52.380694
+241b2506-7e83-42bc-9b7c-7d9fb02f12fd,2026-01-04T10:02:14.602987,cereales,cereal_movement,INGRESO,Trigo,31444,Campo Figueroa,Anguil,Anguil,2026-01-07T20:03:52.380720
+19c6f4d4-2b78-4976-b018-978138360830,2026-01-07T16:52:13.305099,cereales,cereal_movement,INGRESO,Trigo,28405,Campo Benitez,Anguil,Anguil,2026-01-07T20:03:52.380748
+95b3d78e-6392-4e37-9a12-7205972be8d7,2026-01-06T01:31:02.290246,cereales,cereal_movement,INGRESO,Soja,27672,Campo Castro,Anguil,Anguil,2026-01-07T20:03:52.380780
+1682c72d-cc76-494c-a202-1ea6aa2fcc8a,2026-01-01T07:47:34.531868,cereales,cereal_movement,EGRESO,Girasol,31459,Uriburu,Molino local,Uriburu,2026-01-07T20:03:52.380799
+70b49545-4df1-4d61-9a03-5f5c5f14f9db,2026-01-05T13:04:29.648414,cereales,cereal_movement,EGRESO,Trigo,30801,Anguil,Puerto Rosario,Anguil,2026-01-07T20:03:52.380820
+c391950f-4b97-4d97-88a9-0908f6be091a,2026-01-03T23:49:58.939754,cereales,cereal_movement,EGRESO,Soja,28341,9 de Julio,Puerto Bahía Blanca,9 de Julio,2026-01-07T20:03:52.380839
+1fb151f9-58a4-4706-b856-2e2e76231f81,2026-01-03T05:21:13.067418,cereales,cereal_movement,INGRESO,Soja,30166,Campo Gomez,9 de Julio,9 de Julio,2026-01-07T20:03:52.380865
+ea09b1f0-f275-425f-868c-f1e6f9aeb8f4,2026-01-01T10:03:49.714123,cereales,cereal_movement,EGRESO,Trigo,29841,Santa Rosa,Molino local,Santa Rosa,2026-01-07T20:03:52.380883
+81bafaf9-7947-4a14-a3c9-a88671e6e80e,2026-01-05T18:02:41.230916,cereales,cereal_movement,INGRESO,Soja,30247,Campo Juarez,9 de Julio,9 de Julio,2026-01-07T20:03:52.380909
+0ba35201-a699-422b-81b5-5ac49b966aea,2026-01-05T03:09:45.480228,cereales,cereal_movement,INGRESO,Maíz,25083,Campo Vazquez,Anguil,Anguil,2026-01-07T20:03:52.380937
+9b4036d4-802b-497a-a61c-60c681820a2a,2026-01-04T21:46:41.550382,cereales,cereal_movement,EGRESO,Girasol,28944,Trenque Lauquen,Molino local,Trenque Lauquen,2026-01-07T20:03:52.380955
+b51d4115-45a4-4941-954c-1bd6dd5d6674,2026-01-01T23:35:43.892760,cereales,cereal_movement,INGRESO,Soja,31238,Campo Olivera,Catriló,Catriló,2026-01-07T20:03:52.380982
+69d5f0d9-0a8a-4101-b4fb-d7a654c612b1,2026-01-04T07:16:06.357032,cereales,cereal_movement,INGRESO,Trigo,27511,Campo Suarez,9 de Julio,9 de Julio,2026-01-07T20:03:52.381009
+64d9cc54-5050-462b-9e4d-0bcfcbdf286a,2026-01-01T19:22:53.468986,cereales,cereal_movement,EGRESO,Trigo,31838,9 de Julio,Puerto Bahía Blanca,9 de Julio,2026-01-07T20:03:52.381028
+7e653780-23e5-4c9f-8f9b-3af1212dd5df,2026-01-01T12:00:51.733755,cereales,cereal_movement,INGRESO,Girasol,30525,Campo Ortiz,Volta,Volta,2026-01-07T20:03:52.381054
+ece51e51-4b58-41ce-a147-809e94dbb75a,2026-01-07T04:25:21.402369,cereales,cereal_movement,EGRESO,Trigo,32106,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.381072
+fa35523e-11d3-4e2b-983a-2b8d2bb8efb7,2026-01-04T12:22:39.471210,cereales,cereal_movement,INGRESO,Girasol,25237,Campo Diaz,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.381098
+dcbad0b9-374b-459a-b73d-4e50087b9067,2026-01-02T19:57:48.745600,cereales,cereal_movement,EGRESO,Trigo,27606,9 de Julio,Fábrica balanceado,9 de Julio,2026-01-07T20:03:52.381116
+4b49aaf7-5f8a-4efb-b5e8-20b733eca468,2026-01-05T20:16:37.960231,cereales,cereal_movement,EGRESO,Trigo,29358,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.381134
+687b1ad4-780a-4657-b80b-7e02043eb196,2026-01-04T21:55:32.385099,cereales,cereal_movement,EGRESO,Girasol,31787,Anguil,Molino local,Anguil,2026-01-07T20:03:52.381152
+cdb0f707-8950-4c31-a85b-ae231732f540,2026-01-06T17:46:22.473871,cereales,cereal_movement,INGRESO,Girasol,27856,Campo Rodriguez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.381183
+272bb53f-626f-4b99-b908-5c628b4e9c6b,2026-01-05T07:51:20.523961,cereales,cereal_movement,EGRESO,Girasol,28850,Uriburu,Molino local,Uriburu,2026-01-07T20:03:52.381203
+9797f7db-ee83-4b1d-a6d6-0184f1f23c78,2026-01-06T20:30:43.404614,cereales,cereal_movement,INGRESO,Girasol,28412,Campo Nuñez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381229
+590d93a4-e4b2-44ff-b5b4-6c6cd6eaace0,2026-01-03T02:45:46.296038,cereales,cereal_movement,INGRESO,Girasol,27688,Campo Medina,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381261
+d9436123-1ab8-4ae4-9d8b-80a62f94b815,2026-01-07T11:15:59.880136,cereales,cereal_movement,EGRESO,Soja,30862,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.381280
+c54090db-77bc-446f-bb4e-9056e7444315,2026-01-01T00:26:26.828518,cereales,cereal_movement,INGRESO,Soja,25869,Campo Duarte,Catriló,Catriló,2026-01-07T20:03:52.381308
+07ed5815-f028-4e03-80db-0ebe28aead0e,2026-01-01T07:38:21.787012,cereales,cereal_movement,INGRESO,Trigo,26650,Campo Fernandez,9 de Julio,9 de Julio,2026-01-07T20:03:52.381335
+7fa4582b-5254-4619-aa15-eaa611cf5df8,2026-01-02T05:15:41.418288,cereales,cereal_movement,INGRESO,Girasol,31777,Campo Rodriguez,Catriló,Catriló,2026-01-07T20:03:52.381362
+143b78e1-5c2d-4043-bd33-344ab8d6fe10,2026-01-04T22:26:48.864265,cereales,cereal_movement,INGRESO,Soja,28283,Campo Ruiz,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.381389
+68f3a842-60cb-44f2-93a8-b9c1fc81546e,2026-01-03T07:15:28.452167,cereales,cereal_movement,INGRESO,Soja,26245,Campo Diaz,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381416
+e5238ba2-f86a-44c1-84a9-32eb7d4399aa,2026-01-03T09:23:02.558403,cereales,cereal_movement,EGRESO,Trigo,28635,Cañada Seca,Fábrica balanceado,Cañada Seca,2026-01-07T20:03:52.381434
+a03a238f-812e-4c3f-905b-c949a4ff1203,2026-01-07T01:41:44.696239,cereales,cereal_movement,INGRESO,Soja,27078,Campo Garcia,Uriburu,Uriburu,2026-01-07T20:03:52.381460
+2afa38b0-acba-4ee0-bc98-13e14942ab96,2026-01-06T08:26:53.108032,cereales,cereal_movement,INGRESO,Maíz,29810,Campo Rodriguez,Anguil,Anguil,2026-01-07T20:03:52.381486
+495e2993-f9ac-40e8-a439-38bd38e0cc96,2026-01-06T21:42:06.928585,cereales,cereal_movement,EGRESO,Girasol,33816,Cañada Seca,Molino local,Cañada Seca,2026-01-07T20:03:52.381505
+8df50477-1140-4f84-82bf-c57a162ded3b,2026-01-04T11:59:33.636345,cereales,cereal_movement,INGRESO,Maíz,29746,Campo Lopez,9 de Julio,9 de Julio,2026-01-07T20:03:52.381531
+194dd4bf-4bac-4d9d-8fb3-01d0ca7d430f,2026-01-01T04:32:56.245399,cereales,cereal_movement,INGRESO,Maíz,25160,Campo Gomez,González Moreno,González Moreno,2026-01-07T20:03:52.381557
+f57d93e4-02c2-49a6-8b9d-4e86be3891a2,2026-01-03T15:46:00.716684,cereales,cereal_movement,EGRESO,Trigo,27585,Catriló,Puerto Bahía Blanca,Catriló,2026-01-07T20:03:52.381576
+109af917-b233-42d0-8e4e-1450a7a6b1e0,2026-01-01T17:30:07.839611,cereales,cereal_movement,INGRESO,Trigo,31064,Campo Coronel,Catriló,Catriló,2026-01-07T20:03:52.381602
+b315eaca-3d05-4c31-9ae2-ae9ccd941da8,2026-01-04T04:52:49.075284,cereales,cereal_movement,EGRESO,Maíz,27107,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.381621
+bda7fc6c-6809-43a1-8d47-6f63701e5b16,2026-01-06T12:12:09.523028,cereales,cereal_movement,INGRESO,Soja,30055,Campo Alvarez,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381647
+7b4310b3-e7d9-4867-a182-ba9224b35076,2026-01-01T23:59:16.345855,cereales,cereal_movement,INGRESO,Soja,27952,Campo Perez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.381674
+318f5003-f708-43fb-833f-d8d76d7dd4d6,2026-01-02T11:38:50.316404,cereales,cereal_movement,EGRESO,Trigo,33883,Trenque Lauquen,Fábrica balanceado,Trenque Lauquen,2026-01-07T20:03:52.381696
+a09eabe5-5872-4fc5-91da-175e68cff345,2026-01-02T04:35:41.046756,cereales,cereal_movement,INGRESO,Maíz,30188,Campo Diaz,Catriló,Catriló,2026-01-07T20:03:52.381758
+1b6d5f3d-5cc6-42c8-9bc8-578ef3afcc15,2026-01-04T23:11:25.361982,cereales,cereal_movement,INGRESO,Girasol,31901,Campo Herrera,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381798
+1c0b75f3-730a-4cb9-8046-e304240a955d,2026-01-05T01:03:27.779557,cereales,cereal_movement,INGRESO,Soja,30360,Campo Sanchez,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.381830
+0121f281-a69d-4eb9-8f8e-590695c3339a,2026-01-03T21:10:19.023844,cereales,cereal_movement,INGRESO,Girasol,28357,Campo Dominguez,Uriburu,Uriburu,2026-01-07T20:03:52.381859
+80395e9e-5a8a-4e0a-9adc-9b5ff83f5cd2,2026-01-03T11:11:47.724822,cereales,cereal_movement,INGRESO,Trigo,26610,Campo Acosta,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.381892
+e59e3b2d-5e87-4864-bdc2-11f2b7cc32fd,2026-01-01T05:30:17.268960,cereales,cereal_movement,INGRESO,Soja,30194,Campo Avila,Uriburu,Uriburu,2026-01-07T20:03:52.381922
+86522cfd-66e2-4a04-b5d6-b9c5c80af0dd,2026-01-07T01:22:06.611110,cereales,cereal_movement,INGRESO,Soja,25768,Campo Maidana,9 de Julio,9 de Julio,2026-01-07T20:03:52.381950
+4ff9dd6f-429b-4e37-88a9-c325d7a4e5e0,2026-01-02T03:11:46.610763,cereales,cereal_movement,INGRESO,Girasol,27827,Campo Juarez,Catriló,Catriló,2026-01-07T20:03:52.381978
+11654943-fb00-41d0-8c79-70ddc9be39a3,2026-01-04T11:55:34.156285,cereales,cereal_movement,EGRESO,Trigo,30352,Santa Rosa,Puerto Bahía Blanca,Santa Rosa,2026-01-07T20:03:52.381998
+164439e2-ad1e-4978-bf12-07f97e270d5d,2026-01-05T03:04:10.621032,cereales,cereal_movement,INGRESO,Maíz,31202,Campo Gonzalez,Volta,Volta,2026-01-07T20:03:52.382025
+506d558c-524d-42a3-b587-2c80f99216ef,2026-01-06T16:53:14.708568,cereales,cereal_movement,INGRESO,Soja,26291,Campo Rivero,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.382052
+28838cc5-c236-4cd1-82e9-c9fc1acdc435,2026-01-05T06:32:53.768446,cereales,cereal_movement,INGRESO,Trigo,26197,Campo Nuñez,Santa Rosa,Santa Rosa,2026-01-07T20:03:52.382080
+c5a81afb-2f2d-4dc0-8940-8d033478ba81,2026-01-03T15:43:02.343197,cereales,cereal_movement,EGRESO,Trigo,33038,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.382100
+37845a57-5fdc-49e4-84b8-c5c45c851722,2026-01-06T01:53:16.684623,cereales,cereal_movement,EGRESO,Maíz,33490,Anguil,Fábrica balanceado,Anguil,2026-01-07T20:03:52.382118
+39b35f45-9c47-4fec-a649-892139969977,2026-01-05T07:26:58.858371,cereales,cereal_movement,EGRESO,Soja,26621,Anguil,Puerto Bahía Blanca,Anguil,2026-01-07T20:03:52.382135
+0d00d9bc-3dc8-4f8f-a69d-61174a75e5d3,2026-01-07T00:46:23.671133,cereales,cereal_movement,INGRESO,Maíz,31027,Campo Gomez,Volta,Volta,2026-01-07T20:03:52.382161
+907c9c9c-727f-4304-84d7-cc492cfae60e,2026-01-07T01:49:55.155194,cereales,cereal_movement,EGRESO,Trigo,32682,Catriló,Fábrica balanceado,Catriló,2026-01-07T20:03:52.382179
+aa05fca7-d908-451d-aa58-8a922295eb3d,2026-01-07T02:41:29.065321,cereales,cereal_movement,EGRESO,Girasol,26070,Uriburu,Fábrica balanceado,Uriburu,2026-01-07T20:03:52.382197
+0e20da23-08e7-471a-b689-05259dba11a9,2026-01-07T07:04:58.819715,cereales,cereal_movement,INGRESO,Trigo,31811,Campo Castillo,9 de Julio,9 de Julio,2026-01-07T20:03:52.382224
+fb60ddbf-a819-4b45-850a-3f1f0b1b3bd6,2026-01-01T11:03:44.240183,cereales,cereal_movement,EGRESO,Maíz,31364,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.382243
+34e1ee58-df46-47a7-a986-92d04cf3943d,2026-01-07T07:10:14.814539,cereales,cereal_movement,EGRESO,Trigo,33625,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.382261
+6480a6be-e4af-4a63-99a3-20140bf771c5,2026-01-06T19:55:26.371166,cereales,cereal_movement,EGRESO,Soja,31954,Trenque Lauquen,Puerto Rosario,Trenque Lauquen,2026-01-07T20:03:52.382279
+61262265-0060-4209-858a-574a700f5dd9,2026-01-02T00:26:42.890231,cereales,cereal_movement,INGRESO,Maíz,30531,Campo Rodriguez,Uriburu,Uriburu,2026-01-07T20:03:52.382305
+11bf8ba9-a3b9-4994-a975-2aa9ab8291b4,2026-01-05T06:00:09.423142,cereales,cereal_movement,INGRESO,Maíz,30972,Campo Vazquez,Cañada Seca,Cañada Seca,2026-01-07T20:03:52.382332
+685c4b07-4398-4546-88ec-1f3d96b5c2d8,2026-01-05T18:35:40.312762,cereales,cereal_movement,INGRESO,Trigo,27166,Campo Ruiz,Trenque Lauquen,Trenque Lauquen,2026-01-07T20:03:52.382359
+6cecfc7c-60e0-44b6-be32-649d2a6d81b6,2026-01-04T22:57:52.094847,cereales,cereal_movement,INGRESO,Soja,26372,Campo Gutierrez,Uriburu,Uriburu,2026-01-07T20:03:52.382386
+e1f58942-abe8-414b-8078-144d60939510,2026-01-01T06:46:23.325740,cereales,cereal_movement,EGRESO,Trigo,28881,Santa Rosa,Fábrica balanceado,Santa Rosa,2026-01-07T20:03:52.382404
+ecff3bc5-bd23-44c0-837c-526bad55fbdc,2026-01-04T07:54:17.807479,cereales,cereal_movement,EGRESO,Girasol,26298,Santa Rosa,Puerto Bahía Blanca,Santa Rosa,2026-01-07T20:03:52.382423
+f6c2bd91-3864-4398-bed4-7d8abc2d3b1a,2026-01-06T01:53:37.846589,cereales,cereal_movement,INGRESO,Soja,28372,Campo Cruz,Anguil,Anguil,2026-01-07T20:03:52.382449
+dd30355c-e781-4b5f-bc7e-fa063094c857,2026-01-01T12:11:28.015008,cereales,cereal_movement,EGRESO,Maíz,33392,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.382471
+60abd025-9d27-494a-b7d2-97ab0793153d,2026-01-01T11:41:22.422371,cereales,cereal_movement,INGRESO,Trigo,26406,Campo Romero,Anguil,Anguil,2026-01-07T20:03:52.382499
+b916e469-499b-4abc-b307-472e742a3994,2026-01-02T22:27:05.508696,cereales,cereal_movement,EGRESO,Trigo,27030,9 de Julio,Puerto Rosario,9 de Julio,2026-01-07T20:03:52.382518
+f44fb805-78e2-46d6-b9b7-107873027e1d,2026-01-04T11:37:27.328224,cereales,cereal_movement,INGRESO,Trigo,26403,Campo Paez,Volta,Volta,2026-01-07T20:03:52.382544
+2a6c88f8-b24b-4872-bd3a-1f964575e054,2026-01-01T21:38:43.710862,cereales,cereal_movement,EGRESO,Girasol,30420,González Moreno,Puerto Bahía Blanca,González Moreno,2026-01-07T20:03:52.382562
+85e29ae3-f116-423c-9236-16b79b09128b,2026-01-05T22:59:49.707692,cereales,cereal_movement,INGRESO,Trigo,31992,Campo Carrizo,9 de Julio,9 de Julio,2026-01-07T20:03:52.382592
+69665c88-c333-4ada-a5ad-431084e5e4f5,2026-01-04T16:49:56.520718,cereales,cereal_movement,EGRESO,Girasol,32946,Catriló,Puerto Rosario,Catriló,2026-01-07T20:03:52.382611
+b3975c89-3339-4169-a3ba-09e9250530a3,2026-01-04T21:16:06.644176,cereales,cereal_movement,INGRESO,Girasol,27185,Campo Castillo,Volta,Volta,2026-01-07T20:03:52.382638
+84a6a05b-b621-493c-941c-8956d5993db0,2026-01-04T11:26:25.196575,cereales,cereal_movement,EGRESO,Girasol,31619,Volta,Puerto Bahía Blanca,Volta,2026-01-07T20:03:52.382657
+28d31538-a441-4e8b-b319-33905e13cf23,2026-01-04T15:10:01.885782,cereales,cereal_movement,EGRESO,Trigo,30225,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.382675
+663f762f-5da8-4441-b93e-4436a9869ad6,2026-01-06T13:20:06.106096,cereales,cereal_movement,EGRESO,Trigo,28794,Volta,Puerto Bahía Blanca,Volta,2026-01-07T20:03:52.382692
+c0dd255c-a0ea-4688-994e-7937c873c672,2026-01-05T10:30:39.950027,cereales,cereal_movement,EGRESO,Maíz,29962,Cañada Seca,Puerto Rosario,Cañada Seca,2026-01-07T20:03:52.382710
+8487cdfa-4eb3-4cb0-afb6-8a9f09cbe68d,2026-01-06T10:32:26.262522,cereales,cereal_movement,EGRESO,Trigo,32881,Volta,Fábrica balanceado,Volta,2026-01-07T20:03:52.382727
+642a999a-3961-45bd-980f-a89c35a8a4e3,2026-01-04T00:25:34.143848,cereales,cereal_movement,INGRESO,Girasol,27062,Campo Perez,González Moreno,González Moreno,2026-01-07T20:03:52.382754
+7ec03b76-18e4-48f0-b412-04382585f560,2026-01-06T10:41:37.678083,cereales,cereal_movement,INGRESO,Maíz,28244,Campo Medina,9 de Julio,9 de Julio,2026-01-07T20:03:52.382817
+bd8e696b-b44e-4ccb-b8c6-4f4316d9b342,2026-01-06T01:08:17.925964,cereales,cereal_movement,INGRESO,Soja,28729,Campo Avila,Volta,Volta,2026-01-07T20:03:52.382856
+6a5fde28-f5c3-4520-8175-0af5583f68ae,2026-01-04T12:01:24.716839,cereales,cereal_movement,EGRESO,Girasol,26188,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.382879
+59c964c1-1984-4cc8-a433-2d5d02ca7ffe,2026-01-06T19:13:59.887158,cereales,cereal_movement,EGRESO,Maíz,30776,Uriburu,Puerto Bahía Blanca,Uriburu,2026-01-07T20:03:52.382899
+0feca462-ebad-4fdb-a1c8-07264f32f501,2026-01-05T21:58:36.840141,cereales,cereal_movement,INGRESO,Maíz,29305,Campo Romero,Catriló,Catriló,2026-01-07T20:03:52.382928
+65972907-22e3-45f0-aed9-fbc62bdcd874,2026-01-05T17:37:23.952701,cereales,cereal_movement,EGRESO,Trigo,28158,Volta,Molino local,Volta,2026-01-07T20:03:52.382948
+6e05a716-6341-4bb3-8dfe-2ad31f1f391e,2026-01-03T20:00:27.552294,cereales,cereal_movement,INGRESO,Maíz,27437,Campo Maidana,Volta,Volta,2026-01-07T20:03:52.382979

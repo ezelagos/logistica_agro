@@ -12,10 +12,20 @@ tmp/
 # Data
 data/
 
-# Airflow
-airflow/logs/
-airflow/airflow.db
-airflow/airflow.cfg
 
 # OS
 .DS_Store
+
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+
+# Airflow runtime
+airflow/*.pid
+airflow/webserver_config.py
+airflow/logs/
+airflow/__pycache__/
+
+# Logs
+logs/

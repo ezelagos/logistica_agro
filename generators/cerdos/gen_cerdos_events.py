@@ -41,32 +41,36 @@ def generate_cerdos_events(n_lotes: int) -> pd.DataFrame:
         cantidad_animales = random.randint(30, 200)
 
         start_time = faker.date_time_this_year()
-        timestamps = [
-            start_time,
-            start_time + timedelta(days=15),
-            start_time + timedelta(days=45),
-            start_time + timedelta(days=90),
-            start_time + timedelta(days=120),
+
+        peso_actual = random.randint(1, 3)  # peso inicial realista
+
+        timeline = [
+            ("NACIMIENTO", 0, (1, 3)),
+            ("ALIMENTACION", 15, (10, 40)),
+            ("SANIDAD", 45, (30, 70)),
+            ("TRASLADO", 90, (70, 100)),
+            ("VENTA", 120, (90, 130)),
         ]
 
-        for event_type, ts in zip(EVENT_TYPES, timestamps):
+        for evento, days, peso_range in timeline:
+            peso_actual = random.randint(*peso_range)
+
             events.append({
                 "event_id": str(uuid.uuid4()),
                 "lote_id": lote_id,
-                "event_timestamp": ts.isoformat(),
+                "event_timestamp": (start_time + timedelta(days=days)).isoformat(),
                 "unidad_negocio": "cerdos",
                 "tipo_evento": "cerdo_event",
-                "evento": event_type,
+                "evento": evento,
                 "granja": granja,
                 "cantidad_animales": cantidad_animales,
-                "peso_promedio_kg": random.randint(6, 120)
-                    if event_type in ["TRASLADO", "VENTA"] else None,
-                "destino": f"Frigorifico {faker.city()}"
-                    if event_type == "VENTA" else None,
+                "peso_promedio_kg": peso_actual,
+                "destino": f"Frigorifico {faker.city()}" if evento == "VENTA" else None,
                 "created_at": datetime.utcnow().isoformat()
             })
 
     return pd.DataFrame(events)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

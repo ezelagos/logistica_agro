@@ -1,9 +1,0 @@
-name: data-pipeline-ci
-
-on: [push]
-
-jobs:
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3

@@ -1,0 +1,5 @@
+storage:
+  raw: gs://{{BUCKET}}/raw
+  bronze: gs://{{BUCKET}}/bronze
+  silver: gs://{{BUCKET}}/silver
+  gold: gs://{{BUCKET}}/gold

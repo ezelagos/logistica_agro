@@ -1,0 +1,63 @@
+import sys
+import os
+import logging
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, sum as _sum
+
+DOMAIN = "cerdos"
+
+def setup_logger(domain: str):
+    os.makedirs("logs/gold", exist_ok=True)
+    logger = logging.getLogger(domain + "_feed_conversion")
+    logger.setLevel(logging.INFO)
+
+    formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(name)s | %(message)s")
+
+    ch = logging.StreamHandler(sys.stdout)
+    ch.setFormatter(formatter)
+
+    fh = logging.FileHandler(f"logs/gold/{domain}_feed_conversion.log")
+    fh.setFormatter(formatter)
+
+    if not logger.handlers:
+        logger.addHandler(ch)
+        logger.addHandler(fh)
+
+    return logger
+
+
+def main(execution_date: str):
+    logger = setup_logger(DOMAIN)
+    logger.info("INICIO GOLD feed_conversion")
+
+    spark = SparkSession.builder.appName("gold-cerdos-feed-conversion").getOrCreate()
+
+    silver_path = f"data/silver/{DOMAIN}/date={execution_date}"
+    gold_path = f"data/gold/{DOMAIN}/date={execution_date}/feed_conversion"
+
+    df = spark.read.parquet(silver_path)
+
+    df_fc = (
+        df.filter(col("evento") == "ALIMENTACION")
+        .groupBy("lote_id", "granja")
+        .agg(
+            _sum("cantidad_animales").alias("animales"),
+            _sum("peso_promedio_kg").alias("kg_consumidos")
+        )
+        .withColumn("feed_conversion_ratio",
+                    col("kg_consumidos") / col("animales"))
+    )
+
+    if df_fc.count() == 0:
+        raise RuntimeError("feed_conversion vacío")
+
+    df_fc.write.mode("overwrite").parquet(gold_path)
+
+    logger.info("                           ")
+    logger.info("GOLD CERDOS FEED_CONVERSION FINALIZADO OK")
+    logger.info("                           ")
+    spark.stop()
+
+
+if __name__ == "__main__":
+    main(sys.argv[1])

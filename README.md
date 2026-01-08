@@ -1,21 +1,45 @@
-# Logística Agro – Plataforma de Datos
+# Logística Agro — Data Platform Demo
 
-Este proyecto implementa una plataforma de datos end-to-end para el dominio
-logístico, utilizando arquitectura Medallion y herramientas estándar
-de ingeniería de datos.
+Pipeline de datos end-to-end basado en arquitectura Medallion
+utilizando Python y Apache Spark.
 
-## Stack
-- Python
-- Apache Airflow
-- Apache Spark
-- dbt
-- GCP (cloud-ready)
+## 🎯 Objetivo
+Demostrar diseño y ejecución de pipelines de datos reales:
+- Ingesta RAW
+- Transformación BRONZE → SILVER
+- Agregaciones GOLD (KPIs)
+- Validaciones de contratos de datos
 
-## Arquitectura
-Bronze → Silver → Gold
+## 🧱 Arquitectura
+RAW → BRONZE → SILVER → GOLD
 
-## Orquestación
-Airflow coordina la ingesta, transformación y publicación de datos.
+Cada capa cumple un rol claro:
+- RAW: datos crudos simulados
+- BRONZE: persistencia confiable
+- SILVER: validación y normalización
+- GOLD: métricas de negocio
 
-## Objetivo
-Demostrar diseño, escalabilidad y buenas prácticas en ingeniería de datos.
+## 🚀 Ejecución rápida (demo)
+
+```bash
+# RAW
+python -m generators.cerdos.gen_cerdos_events --date 2026-01-09
+
+# BRONZE
+spark-submit spark/jobs/bronze/bronze_cerdos_ingest.py 2026-01-09
+
+# SILVER
+spark-submit spark/jobs/silver/silver_cerdos_transform.py 2026-01-09
+
+# GOLD
+spark-submit spark/jobs/gold/gold_cerdos_kpis.py 2026-01-09
+
+🛠 Stack
+
+Python 3.10
+
+Apache Spark 4.x
+
+Arquitectura Medallion
+
+Preparado para ejecución en GCP

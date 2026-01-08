@@ -1,9 +1,21 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
-
-airflow/airflow.db
-airflow/logs/
-
+.venv/
 .env
-.env.*
+
+# Spark
+spark-warehouse/
+tmp/
+*.crc
+
+# Data
+data/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+
+# OS
+.DS_Store
